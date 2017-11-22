@@ -12,4 +12,4 @@ Transparency report for instance-wide blocks and silence
 | sealion.club | suspend | Free Speech Zone* | 
 
 
-* No moderation
+`*` No moderation
