@@ -10,6 +10,7 @@ Transparency report for instance-wide blocks and silence
 | unsafe.space | suspend | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
 | porntoot.com | suspend | Unflagged porn | https://github.com/nolanlawson/blocked-on-mastodon
 | sealion.club | suspend | Free Speech Zone* | 
+| counter.social | suspend | broken federation, arbitrary blocking of countries
 
 
 `*` No moderation
