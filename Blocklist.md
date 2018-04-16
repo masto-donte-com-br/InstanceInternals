@@ -11,6 +11,7 @@ Transparency report for instance-wide blocks and silence
 | porntoot.com | suspend | Unflagged porn | https://github.com/nolanlawson/blocked-on-mastodon
 | sealion.club | suspend | Free Speech Zone* | 
 | counter.social | suspend | broken federation, arbitrary blocking of countries
+| pl.smuglo.li | suspend | Oppressive shitposting | Added a pleroma instance on top of the existing gnu social one, apparently
 
 
 `*` No moderation
