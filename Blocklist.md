@@ -14,6 +14,7 @@ Transparency report for instance-wide blocks and silence
 | pl.smuglo.li | suspend | Oppressive shitposting | Added a pleroma instance on top of the existing gnu social one, apparently
 | mstdn.io | silence | moderation differences | enabling neuroatypical-prejudiced memes and emojis
 | kpop.social | silence | moderation differences | enabling neuroatypical-prejudiced memes and emojis
-
+| baraag.net | suspend | lolicon, shota, etc |
+| thechad.zone | suspend | Masculinist, non-action by the admin | http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23
 
 `*` No moderation
