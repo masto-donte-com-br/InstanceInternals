@@ -2,7 +2,7 @@
 
 Essa instância é **moderada**. Tentamos ser um espaço feminista, antiracista, anticolonialista, acessível e inclusivo à pessoas trans e não-binárias.
 
-Para mantermos esse espaço dessa maneira, qualquer usuário do masto.donte.com.br precisa seguir o código de conduta aqui descrito. Se você acha que essa instância não é pra você, dê uma olhada <a href="https://instances.social/list#lang=pt&allowed=&prohibited=nudity_nocw,pornography_nocw,spam,advertising,spoilers_nocw&users=" target="_blank">nessa lista de instâncias</a>.
+Para mantermos esse espaço dessa maneira, qualquer usuário do masto.donte.com.br precisa seguir o código de conduta aqui descrito. Se você acha que essa instância não é pra você, dê uma olhada <a href="https://instances.social/list#lang=pt&allowed=&prohibited=nudity_nocw,pornography_nocw,spam,advertising,spoilers_nocw&users=" target="_blank">nessa sugestão de outras instâncias de falantes de português</a>.
 
 ## Código de conduta do masto.donte.com.br:
 
@@ -21,8 +21,8 @@ Contas que engajarem nos seguintes padrões de comportamento serão suspensas se
 * Comportamentos e discursos racistas, sexistas, homofóbicos, transfóbicos, capacitistas, xenofóbicos, islamofóbicos, gordofóbicos.
 * Ameaças de violência ou linguagem violenta direcionada a outras pessoas.
 * Apologia a governos totalitários.
-* Xenofobia e/ou nacionalismo extremista
-* Desinformação intencional
+* Xenofobia e/ou nacionalismo extremista.
+* Desinformação intencional.
 
 #### Ameaça de publicação ou publicação de conteúdo privado, como:
 
@@ -44,11 +44,11 @@ Contas que engajarem nos seguintes padrões de comportamento serão suspensas se
 Os comportamentos a seguir são desencorajados. A reincidência, após advertência, também ocasionará em suspensão.
 
 * Flood (postar repetidamente ou pequenas mensagens sem intervalo) nas timelines públicas (local e federada).
-* Spam (mensagens indesejadas ou não requisitadas).</li>
+* Spam (mensagens indesejadas ou não requisitadas).
 
 ## Política de aviso de conteúdo
 
-O Mastodon possui uma funcionalidade chamada de "aviso de conteúdo". Para mais informações sobre o uso, veja <a href="#" target="_blank">este post</a>
+O Mastodon possui uma funcionalidade chamada de "aviso de conteúdo". Para mais informações sobre o uso, veja <a href="#" target="_blank">este post</a>.
 
 O uso de aviso de conteúdo é obrigatorio em postagens que:
 * Mencionam assuntos traumáticos (por exemplo: estupro, violência).
@@ -68,15 +68,28 @@ O uso de aviso de conteúdo não é obrigatório, mas sugerido, em postagens env
 <a name="privacidade" />
 No Mastodon cada status pode ser postado em três diferentes configurações de audiência. É importante ter isso em mente porque certas regras só se aplicam a determinadas configurações:
 
-* Somente seguidores: A publicação é enviada para todos os seguidores, não aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags
-* Não listada: A publicação é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags
+* Somente seguidores: A publicação é enviada para todos os seguidores, não aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags.
+* Não listada: A publicação é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags.
 * Pública: É enviada para as timelines "local" e "pública", compartilhadas por outros membros da instância, é enviadada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, aparece em buscas por hashtags.
 
-## Sobre crossposters
+## Sobre Crossposters
 Crossposters são ferramentas automatizadas para postar a partir de outras redes (como Twitter ou Tumblr) para o Mastodon. O uso destas ferramentas é permitido, mas as seguintes regras se aplicam:
 1. Retweet, quotes (retweets com comentários) ou reblogs não podem ser postados com privacidade pública.
 2. Posts vindos de outras redes, como o Twitter, ainda precisam obedecer à outras regras desse código, tais como avisos de conteúdo.
 3. Crossposters só podem ser usados na condição de que você acompanha as suas notificações, do contrário resultará em suspensão após uma advertência.
+
+## Como reportar uma violação do código de conduta
+
+O Mastodon possui ferramentas internas de denúncia. Qualquer post que você acredite que esteja em violação dessas regras pode ser denunciado utilizando a ferramenta interna do Mastodon e ele será enviado aos moderadores.
+
+Caso a sua denúncia seja relativa a um dos moderadores, você pode reportar a violação através de mensagem direta à um dos outros moderadores.
+
+Você pode fazer uma denúncia mesmo que a sua situação não seja diretamente coberta por essas regras, caso a situação lhe cause desconforto. A moderação irá avaliar cada situação individualmente.
+
+Respondemos de maneira privada à todas as denúncias que recebemos, fazendo um esforço para que não leve muito tempo.
+
+
+#### Old shtuff
 
 <p>A administração se reserva ao direito de suspender o acesso de um usuário por motivos que não os citados acima. Em geral qualquer tipo de violação terá um primeiro contato com o usuário e não uma suspensão sumária, mas isso pode variar dependendo da seriedade da violação.</p>
 <p>Nosso time de moderação atual é composto por <a href="https://masto.donte.com.br/@renatolond" class="u-url mention">@<span>renatolond</span></a>, <a href="https://masto.donte.com.br/@abacaxi" class="u-url mention">@<span>abacaxi</span></a>, <a href="https://masto.donte.com.br/@anna" class="u-url mention">@<span>anna</span></a>, <a href="https://masto.donte.com.br/@amber" class="u-url mention">@<span>amber</span></a> e <a href="https://masto.donte.com.br/@ohtori" class="u-url mention">@<span>ohtori</span></a></p>
