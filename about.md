@@ -39,14 +39,14 @@ Contas que engajarem nos seguintes padrões de comportamento serão suspensas se
 #### Falsidade ideológica, como:
 * Criar contas para se passar por celebridades ou marcas. Contas paródia ou contas de fã precisam estar explicitamente sinalizadas.
 
-## Comportamentos desencorajados
+### Comportamentos desencorajados
 
 Os comportamentos a seguir são desencorajados. A reincidência, após advertência, também ocasionará em suspensão.
 
 * Flood (postar repetidamente ou pequenas mensagens sem intervalo) nas timelines públicas (local e federada).
 * Spam (mensagens indesejadas ou não requisitadas).
 
-## Política de aviso de conteúdo
+### Política de aviso de conteúdo
 
 O Mastodon possui uma funcionalidade chamada de "aviso de conteúdo". Para mais informações sobre o uso, veja <a href="#" target="_blank">este post</a>.
 
@@ -72,13 +72,13 @@ No Mastodon cada status pode ser postado em três diferentes configurações de 
 * Não listada: A publicação é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags.
 * Pública: É enviada para as timelines "local" e "pública", compartilhadas por outros membros da instância, é enviadada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, aparece em buscas por hashtags.
 
-## Sobre Crossposters
+### Sobre Crossposters
 Crossposters são ferramentas automatizadas para postar a partir de outras redes (como Twitter ou Tumblr) para o Mastodon. O uso destas ferramentas é permitido, mas as seguintes regras se aplicam:
 1. Retweet, quotes (retweets com comentários) ou reblogs não podem ser postados com privacidade pública.
 2. Posts vindos de outras redes, como o Twitter, ainda precisam obedecer à outras regras desse código, tais como avisos de conteúdo.
 3. Crossposters só podem ser usados na condição de que você acompanha as suas notificações, do contrário resultará em suspensão após uma advertência.
 
-## Como reportar uma violação do código de conduta
+### Como reportar uma violação do código de conduta
 
 O Mastodon possui ferramentas internas de denúncia. Qualquer post que você acredite que esteja em violação dessas regras pode ser denunciado utilizando a ferramenta interna do Mastodon e ele será enviado aos moderadores.
 
