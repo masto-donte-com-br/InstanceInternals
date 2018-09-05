@@ -1,29 +1,84 @@
-<h2>Regras do Masto.donte.com.br:</h2>
-<ul>
-    <li>São passíveis de suspensão de conta: Racismo, sexismo, homofobia, transfobia, capacitismo, xenofobia, islamofobia e afins.</li>
-    <li>São proibidos conteúdos ilegais, tais como pornografia infantil.</li>
-    <li>É obrigatório usar aviso de conteúdo quando falar de:
-        <ol>
-            <li>Assuntos traumáticos (por exemplo: estupro, violência)</li>
-            <li>Enredo de séries, jogos e filmes (por exemplo: 'Spoilers de Power Rangers S01E01')</li>
-            <li>Nudez, imagens de violência (mesmo que em desenhos)</li>
-            <li>Descrições explícitas de sexo em posts públicos</li>
-        </ol>
-    </li>
-    <li>É proibido criar contas para se passar por celebridades ou marcas. Contas paródia ou fan accounts precisam estar explicitamente declaradas ou serão suspensas.</li>
-    <li>Não é permitido flood (isto é, postar repetidamente ou pequenas mensagens sem intervalo) na timeline pública. Posts que sejam não-listados ou privados não tem qualquer limite nesse sentido.</li>
-    <li>É opcional, mas recomendável, usar aviso de conteúdo em temas (e especialmente em imagens) que podem ser sensíveis (comida, política, álcool, aranhas, répteis e outras fobias comuns)</li>
-    <li>É proibido publicar conversas privadas (seja em screenshots, ou em texto) sem autorização das outras partes envolvidas.</li>
-    <li>É proibido spam. Posts serão removidos da timeline pública e pode resultar em suspensão de conta em caso de reincidência.</li>
-    <li>Seja agradável com os outros usuários</li>
-    <li>Sobre crossposters:
-        <ol>
-            <li>RTs e quotes não podem ser postados com privacidade pública.</li>
-            <li>Posts vindo do Twitter ainda precisam obedecer às regras de aviso de conteúdo. Alguns crossposters tem opções para isso, em outros casos você precisa ou aplicar um aviso de conteúdo genérico ("Conteúdo vindo do Twitter"), ou não postar publicamente.</li>
-            <li>Crossposters só podem ser usados na condição de que você acompanha suas notificações. Usar o site como um mirror do seus posts no twitter sem interagir de volta não é permitido.</li>
-        </ol>
-    </li>
-</ul>
+<div lang="pt-BR">
+O masto.donte.com.br é uma <a href="joinmastodon.orig" target="_blank">instância do Mastodon</a> voltada para pessoas Brasileiras, mas pessoas que não falam português ou que postam em mais de uma lingua são igualmente bem vindas.
+    
+Essa instância é **moderada**. Tentamos ser um espaço feminista, anti-racista, anti-colonialista, acessível e inclusivo à pessoas trans e não-binárias.
+
+Para mantermos esse espaço dessa maneira, qualquer usuário do masto.donte.com.br precisa seguir o código de conduta aqui descrito. Se você acha que essa instância não é pra você, dê uma olhada <a href="https://instances.social/list#lang=pt&allowed=&prohibited=nudity_nocw,pornography_nocw,spam,advertising,spoilers_nocw&users=" target="_blank">nessa lista de instâncias</a>.
+
+## Código de conduta do masto.donte.com.br:
+
+### Comportamenos inadmissíveis
+
+Contas que engajarem nos seguintes padrões de comportamento serão suspensas sem recurso:
+
+#### Publicação de conteúdo ilegal, ou ainda sem definição legal concreta, como:
+
+* Pornografia infantil.
+* Conteúdo que fetichiza menores de idade (i.e. lolicon, shotacon).
+* Apologia ao nazismo ou fascismo.
+
+#### Discurso de ódio e/ou inflamatório, como:
+
+* Comportamentos e discursos racistas, sexistas, homofóbicos, transfóbicos, capacitistas, xenofóbicos, islamofóbicos, gordofóbicos.
+* Ameaças de violência ou linguagem violenta direcionada a outras pessoas.
+* Apologia a governos totalitários.
+* Xenofobia e/ou nacionalismo extremista
+* Desinformação intencional
+
+#### Ameaça de publicação ou publicação de conteúdo privado, como:
+
+* Informações pessoais identificáveis (prática conhecida como "doxing").
+* Conversas privadas, como mensagens privadas ou diretas, sem o consentimento da outra parte.
+
+#### Atitudes invasivas e/ou intimidadoras, como:
+
+* Fazer comentários ou perguntas invasivos (tais como "qual é o seu nome de registro?" ou insistir em saber a localização de determinada pessoa).
+* Insistir em continuar uma conversa após a outra parte expressadamente pedir para que ela se encerre (assédio).
+* Atenção sexual indesejada. Isso inclui piadas ou comentários sexuais; e avanços sexuais indesejados.
+* Intimidação deliberada, stalking.
+
+#### Falsidade ideológica, como:
+* Criar contas para se passar por celebridades ou marcas. Contas paródia ou contas de fã precisam estar explicitamente sinalizadas.
+
+## Comportamentos desencorajados
+
+Os comportamentos a seguir são desencorajados. A reincidência, após advertência, também ocasionará em suspensão.
+
+* Flood (postar repetidamente ou pequenas mensagens sem intervalo) nas timelines públicas (local e federada).
+* Spam (mensagens indesejadas ou não requisitadas).</li>
+
+## Política de aviso de conteúdo
+
+O Mastodon possui uma funcionalidade chamada de "aviso de conteúdo". Para mais informações sobre o uso, veja <a href="#" target="_blank">este post</a>
+
+O uso de aviso de conteúdo é obrigatorio em postagens que:
+* Mencionam assuntos traumáticos (por exemplo: estupro, violência).
+* Contenham enredo de séries, jogos e filmes (por exemplo: 'Spoilers de Power Rangers S01E01').
+* Contenham nudez, conteúdo sexual e imagens de violência (mesmo que em representações artísticas).
+* Descrições explícitas de sexo ou conteúdo sexual em [postagens públicas](#privacidade).
+* Vídeos com movimentos rápidos e luzes intermitentes.
+
+O uso de aviso de conteúdo não é obrigatório, mas sugerido, em postagens envolvendo os seguintes assuntos ou imagens relacionadas:
+* Comida
+* Política
+* Álcool, cigarro e outras drogas
+* Aranhas, répteis e outras coisas que podem causar desconforto em pessoas que possuem fobias
+* Retratos de si, principalmente aquelas com contato ocular direto
+
+## Sobre níveis de privacidade
+<a name="privacidade" />
+No Mastodon cada status pode ser postado em três diferentes configurações de audiência. É importante ter isso em mente porque certas regras só se aplicam a determinadas configurações:
+
+* Somente seguidores: A publicação é enviada para todos os seguidores, não aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags
+* Não listada: A publicação é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags
+* Pública: É enviada para as timelines "local" e "pública", compartilhadas por outros membros da instância, é enviadada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, aparece em buscas por hashtags.
+
+## Sobre crossposters
+Crossposters são ferramentas automatizadas para postar a partir de outras redes (como Twitter ou Tumblr) para o Mastodon. O uso destas ferramentas é permitido, mas as seguintes regras se aplicam:
+1. Retweet, quotes (retweets com comentários) ou reblogs não podem ser postados com privacidade pública.
+2. Posts vindos de outras redes, como o Twitter, ainda precisam obedecer à outras regras desse código, tais como avisos de conteúdo.
+3. Crossposters só podem ser usados na condição de que você acompanha as suas notificações, do contrário resultará em suspensão após uma advertência.
+
 <p>A administração se reserva ao direito de suspender o acesso de um usuário por motivos que não os citados acima. Em geral qualquer tipo de violação terá um primeiro contato com o usuário e não uma suspensão sumária, mas isso pode variar dependendo da seriedade da violação.</p>
 <p>Nosso time de moderação atual é composto por <a href="https://masto.donte.com.br/@renatolond" class="u-url mention">@<span>renatolond</span></a>, <a href="https://masto.donte.com.br/@abacaxi" class="u-url mention">@<span>abacaxi</span></a>, <a href="https://masto.donte.com.br/@anna" class="u-url mention">@<span>anna</span></a>, <a href="https://masto.donte.com.br/@amber" class="u-url mention">@<span>amber</span></a> e <a href="https://masto.donte.com.br/@ohtori" class="u-url mention">@<span>ohtori</span></a></p>
 <p>Nós federamos com a maioria das instâncias. As exceções podem ser vistas aqui: <a href="https://github.com/masto-donte-com-br/InstanceInternals/blob/master/Blocklist.md" target="_blank">blocklist</a></p>
@@ -45,6 +100,9 @@
 <h2>Dicas:</h2>
 <p>Use <a href="https://bridge.joinmastodon.org/" target="_blank">Mastodon Bridge</a> para encontrar pessoas do Twitter que estão no Mastodon.</p>
 <p>Use <a href="https://crossposter.masto.donte.com.br/" target="_blank">Mastodon Twitter Crossposter</a> para fazer que o conteúdo postado no mastodon seja enviado para o twitter ou vice-versa.</p>
+
+</div>
+
 <hr />
 <h2>Masto.donte.com.br rules:</h2>
 <ul>
