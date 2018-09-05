@@ -64,7 +64,7 @@ O uso de aviso de conteúdo não é obrigatório, mas sugerido, em postagens env
 * Aranhas, répteis e outras coisas que podem causar desconforto em pessoas que possuem fobias
 * Retratos de si, principalmente aquelas com contato ocular direto
 
-## Sobre níveis de privacidade
+### Sobre níveis de privacidade
 <a name="privacidade" />
 No Mastodon cada status pode ser postado em três diferentes configurações de audiência. É importante ter isso em mente porque certas regras só se aplicam a determinadas configurações:
 
