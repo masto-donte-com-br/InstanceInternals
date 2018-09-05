@@ -1,6 +1,6 @@
 <div lang="pt-BR"><p>O masto.donte.com.br é uma <a href="https://joinmastodon.org" target="_blank">instância do Mastodon</a> voltada para pessoas Brasileiras, mas pessoas que não falam português ou que postam em mais de uma lingua são igualmente bem vindas.</p>
 
-Essa instância é **moderada**. Tentamos ser um espaço feminista, anti-racista, anti-colonialista, acessível e inclusivo à pessoas trans e não-binárias.
+Essa instância é **moderada**. Tentamos ser um espaço feminista, antiracista, anticolonialista, acessível e inclusivo à pessoas trans e não-binárias.
 
 Para mantermos esse espaço dessa maneira, qualquer usuário do masto.donte.com.br precisa seguir o código de conduta aqui descrito. Se você acha que essa instância não é pra você, dê uma olhada <a href="https://instances.social/list#lang=pt&allowed=&prohibited=nudity_nocw,pornography_nocw,spam,advertising,spoilers_nocw&users=" target="_blank">nessa lista de instâncias</a>.
 
