@@ -48,7 +48,7 @@ Os comportamentos a seguir são desencorajados. A reincidência, após advertên
 
 ### Política de aviso de conteúdo
 
-O Mastodon possui uma funcionalidade chamada de "aviso de conteúdo". Para mais informações sobre o uso, veja <a href="#" target="_blank">este post</a>.
+O Mastodon possui uma funcionalidade chamada de "aviso de conteúdo". Para mais informações sobre o uso, veja [este post](https://masto.donte.com.br/@status/99971766825871804).
 
 O uso de aviso de conteúdo é obrigatorio em postagens que:
 * Mencionam assuntos traumáticos (por exemplo: estupro, violência).
@@ -86,13 +86,21 @@ Caso a sua denúncia seja relativa a um dos moderadores, você pode reportar a v
 
 Você pode fazer uma denúncia mesmo que a sua situação não seja diretamente coberta por essas regras, caso a situação lhe cause desconforto. A moderação irá avaliar cada situação individualmente.
 
-Respondemos de maneira privada à todas as denúncias que recebemos, fazendo um esforço para que não leve muito tempo.
+Respondemos de maneira privada à todas as denúncias que recebemos, fazendo um esforço para que a primeira resposta seja dada nas primeiras 24 horas.
 
+## Sobre o Mastodonte
+
+### Nosso time de moderação
+<p>Nosso time de moderação atual é composto por <a href="https://masto.donte.com.br/@renatolond" class="u-url mention">@<span>renatolond</span></a>, <a href="https://masto.donte.com.br/@abacaxi" class="u-url mention">@<span>abacaxi</span></a>, <a href="https://masto.donte.com.br/@anna" class="u-url mention">@<span>anna</span></a>, <a href="https://masto.donte.com.br/@amber" class="u-url mention">@<span>amber</span></a> e <a href="https://masto.donte.com.br/@ohtori" class="u-url mention">@<span>ohtori</span></a></p>
+
+### Federação
+Por ser um software descentralizado, um servidor do Mastodon, chamado instância, pode se comunicar com outras instâncias.
+
+O Mastodonte federa com a maioria das instâncias. As exceções podem ser vistas aqui: [lista de bloqueios e silenciamentos](https://github.com/masto-donte-com-br/InstanceInternals/blob/master/Blocklist.md).
 
 #### Old shtuff
 
 <p>A administração se reserva ao direito de suspender o acesso de um usuário por motivos que não os citados acima. Em geral qualquer tipo de violação terá um primeiro contato com o usuário e não uma suspensão sumária, mas isso pode variar dependendo da seriedade da violação.</p>
-<p>Nosso time de moderação atual é composto por <a href="https://masto.donte.com.br/@renatolond" class="u-url mention">@<span>renatolond</span></a>, <a href="https://masto.donte.com.br/@abacaxi" class="u-url mention">@<span>abacaxi</span></a>, <a href="https://masto.donte.com.br/@anna" class="u-url mention">@<span>anna</span></a>, <a href="https://masto.donte.com.br/@amber" class="u-url mention">@<span>amber</span></a> e <a href="https://masto.donte.com.br/@ohtori" class="u-url mention">@<span>ohtori</span></a></p>
 <p>Nós federamos com a maioria das instâncias. As exceções podem ser vistas aqui: <a href="https://github.com/masto-donte-com-br/InstanceInternals/blob/master/Blocklist.md" target="_blank">blocklist</a></p>
 <h2>Diferenças da Instância:</h2>
 <p>A intenção é não desviarmos muito do código original. Temos as seguintes modificações:</p>
