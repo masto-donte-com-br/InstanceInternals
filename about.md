@@ -27,7 +27,7 @@
 <h4 id="atitudes-invasivas-e-ou-intimidadoras-como-">Atitudes invasivas e/ou intimidadoras, como:</h4>
 <p><ul>
 <li>Fazer comentários ou perguntas invasivos (tais como &quot;qual é o seu nome de registro?&quot; ou insistir em saber a localização de determinada pessoa).</li>
-<li>Insistir em continuar uma conversa após a outra parte expressadamente pedir para que ela se encerre (assédio).</li>
+<li>Insistir em continuar uma conversa após a outra parte expressamente pedir para que ela se encerre (assédio).</li>
 <li>Atenção sexual indesejada. Isso inclui piadas ou comentários sexuais; e avanços sexuais indesejados.</li>
 <li>Intimidação deliberada, stalking.</li>
 </ul></p>
