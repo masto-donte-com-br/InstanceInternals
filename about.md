@@ -1,265 +1,217 @@
 <div lang="pt-BR"><p>O masto.donte.com.br é uma <a href="https://joinmastodon.org" target="_blank">instância do Mastodon</a> voltada para pessoas Brasileiras, mas pessoas que não falam português ou que postam em mais de uma lingua são igualmente bem vindas.</p>
 
-Essa instância é **moderada**. Tentamos ser um espaço feminista, antiracista, anticolonialista, acessível e inclusivo à pessoas trans e não-binárias.
-
-Para mantermos esse espaço dessa maneira, qualquer usuário do masto.donte.com.br precisa seguir o código de conduta aqui descrito. Se você acha que essa instância não é pra você, dê uma olhada <a href="https://instances.social/list#lang=pt&allowed=&prohibited=nudity_nocw,pornography_nocw,spam,advertising,spoilers_nocw&users=" target="_blank">nossa sugestão de outras instâncias de falantes de português</a>.
-
-## Código de conduta do masto.donte.com.br:
-
-### Comportamenos inadmissíveis
-
-Contas que engajarem nos seguintes padrões de comportamento serão suspensas sem recurso:
-
-#### Publicação de conteúdo ilegal, ou ainda sem definição legal concreta, como:
-
-* Pornografia infantil.
-* Conteúdo que fetichiza menores de idade (i.e. lolicon, shotacon).
-* Apologia ao nazismo ou fascismo.
-
-#### Discurso de ódio e/ou inflamatório, como:
-
-* Comportamentos e discursos racistas, sexistas, homofóbicos, transfóbicos, capacitistas, xenofóbicos, islamofóbicos, gordofóbicos.
-* Ameaças de violência ou linguagem violenta direcionada a outras pessoas.
-* Apologia a governos totalitários.
-* Xenofobia e/ou nacionalismo extremista.
-* Desinformação intencional.
-
-#### Ameaça de publicação ou publicação de conteúdo privado, como:
-
-* Informações pessoais identificáveis (prática conhecida como "doxing").
-* Conversas privadas, como mensagens privadas ou diretas, sem o consentimento da outra parte.
-
-#### Atitudes invasivas e/ou intimidadoras, como:
-
-* Fazer comentários ou perguntas invasivos (tais como "qual é o seu nome de registro?" ou insistir em saber a localização de determinada pessoa).
-* Insistir em continuar uma conversa após a outra parte expressadamente pedir para que ela se encerre (assédio).
-* Atenção sexual indesejada. Isso inclui piadas ou comentários sexuais; e avanços sexuais indesejados.
-* Intimidação deliberada, stalking.
-
-#### Falsidade ideológica, como:
-* Criar contas para se passar por celebridades ou marcas. Contas paródia ou contas de fã precisam estar explicitamente sinalizadas.
-
-### Comportamentos desencorajados
-
-Os comportamentos a seguir são desencorajados. A reincidência, após advertência, também ocasionará em suspensão.
-
-* Flood (postar repetidamente ou pequenas mensagens sem intervalo) nas timelines públicas (local e federada).
-* Spam (mensagens indesejadas ou não requisitadas).
-
-### Política de aviso de conteúdo
-
-O Mastodon possui uma funcionalidade chamada de "aviso de conteúdo". Para mais informações sobre o uso, veja [este post](https://masto.donte.com.br/@status/99971766825871804).
-
-O uso de aviso de conteúdo é obrigatorio em postagens que:
-* Mencionam assuntos traumáticos (por exemplo: estupro, violência).
-* Contenham enredo de séries, jogos e filmes (por exemplo: 'Spoilers de Power Rangers S01E01').
-* Contenham nudez, conteúdo sexual e imagens de violência (mesmo que em representações artísticas).
-* Descrições explícitas de sexo ou conteúdo sexual em [postagens públicas](#privacidade).
-* Vídeos com movimentos rápidos e luzes intermitentes.
-
-O uso de aviso de conteúdo não é obrigatório, mas sugerido, em postagens envolvendo os seguintes assuntos ou imagens relacionadas:
-* Comida
-* Política
-* Álcool, cigarro e outras drogas
-* Aranhas, répteis e outras coisas que podem causar desconforto em pessoas que possuem fobias
-* Retratos de si, principalmente aquelas com contato ocular direto
-
-### Sobre níveis de privacidade
-<a name="privacidade" />
-No Mastodon cada status pode ser postado em três diferentes configurações de audiência. É importante ter isso em mente porque certas regras só se aplicam a determinadas configurações:
-
-* Somente seguidores: A publicação é enviada para todos os seguidores, não aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags.
-* Não listada: A publicação é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags.
-* Pública: É enviada para as timelines "local" e "pública", compartilhadas por outros membros da instância, é enviadada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, aparece em buscas por hashtags.
-
-### Sobre Crossposters
-Crossposters são ferramentas, automatizadas ou não, usadas para postar a partir de outras redes (como Twitter ou Tumblr) para o Mastodon. O uso destas ferramentas é permitido, mas as seguintes regras se aplicam:
-1. Retweet, quotes (retweets com comentários) ou reblogs não podem ser postados com privacidade pública.
-2. Posts vindos de outras redes, como o Twitter, ainda precisam obedecer à outras regras desse código, tais como avisos de conteúdo.
-3. Crossposters só podem ser usados na condição de que você acompanha as suas notificações, do contrário resultará em suspensão após uma advertência.
-
-### Como reportar uma violação do código de conduta
-
-O Mastodon possui ferramentas internas de denúncia. Qualquer post ou perfil que você acredite que esteja em violação dessas regras pode ser denunciado utilizando a ferramenta interna do Mastodon e ele será enviado aos moderadores.
-
-Caso a sua denúncia seja relativa a um dos moderadores, você pode reportar a violação através de mensagem direta à um dos outros moderadores.
-
-Você pode fazer uma denúncia mesmo que a sua situação não seja diretamente coberta por essas regras, caso a situação lhe cause desconforto. A moderação irá avaliar cada situação individualmente.
-
-Respondemos de maneira privada à todas as denúncias que recebemos, fazendo um esforço para que a primeira resposta seja dada nas primeiras 24 horas.
-
-## Sobre o Mastodonte
-
-### Nosso time de moderação
+<p>Essa instância é <strong>moderada</strong>. Tentamos ser um espaço feminista, antiracista, anticolonialista, acessível e inclusivo à pessoas trans e não-binárias.</p>
+<p>Para mantermos esse espaço dessa maneira, qualquer usuário do masto.donte.com.br precisa seguir o código de conduta aqui descrito. Se você acha que essa instância não é pra você, dê uma olhada <a href="https://instances.social/list#lang=pt&allowed=&prohibited=nudity_nocw,pornography_nocw,spam,advertising,spoilers_nocw&users=" target="_blank">nossa sugestão de outras instâncias de falantes de português</a>.</p>
+<h2 id="c-digo-de-conduta-do-masto-donte-com-br-">Código de conduta do masto.donte.com.br:</h2>
+<h3 id="comportamenos-inadmiss-veis">Comportamenos inadmissíveis</h3>
+<p>Contas que engajarem nos seguintes padrões de comportamento serão suspensas sem recurso:</p>
+<h4 id="publica-o-de-conte-do-ilegal-ou-ainda-sem-defini-o-legal-concreta-como-">Publicação de conteúdo ilegal, ou ainda sem definição legal concreta, como:</h4>
+<p><ul>
+<li>Pornografia infantil.</li>
+<li>Conteúdo que fetichiza menores de idade (i.e. lolicon, shotacon).</li>
+<li>Apologia ao nazismo ou fascismo.</li>
+</ul></p>
+<h4 id="discurso-de-dio-e-ou-inflamat-rio-como-">Discurso de ódio e/ou inflamatório, como:</h4>
+<p><ul>
+<li>Comportamentos e discursos racistas, sexistas, homofóbicos, transfóbicos, capacitistas, xenofóbicos, islamofóbicos, gordofóbicos.</li>
+<li>Ameaças de violência ou linguagem violenta direcionada a outras pessoas.</li>
+<li>Apologia a governos totalitários.</li>
+<li>Xenofobia e/ou nacionalismo extremista.</li>
+<li>Desinformação intencional.</li>
+</ul></p>
+<h4 id="amea-a-de-publica-o-ou-publica-o-de-conte-do-privado-como-">Ameaça de publicação ou publicação de conteúdo privado, como:</h4>
+<p><ul>
+<li>Informações pessoais identificáveis (prática conhecida como &quot;doxing&quot;).</li>
+<li>Conversas privadas, como mensagens privadas ou diretas, sem o consentimento da outra parte.</li>
+</ul></p>
+<h4 id="atitudes-invasivas-e-ou-intimidadoras-como-">Atitudes invasivas e/ou intimidadoras, como:</h4>
+<p><ul>
+<li>Fazer comentários ou perguntas invasivos (tais como &quot;qual é o seu nome de registro?&quot; ou insistir em saber a localização de determinada pessoa).</li>
+<li>Insistir em continuar uma conversa após a outra parte expressadamente pedir para que ela se encerre (assédio).</li>
+<li>Atenção sexual indesejada. Isso inclui piadas ou comentários sexuais; e avanços sexuais indesejados.</li>
+<li>Intimidação deliberada, stalking.</li>
+</ul></p>
+<h4 id="falsidade-ideol-gica-como-">Falsidade ideológica, como:</h4>
+<p><ul>
+<li>Criar contas para se passar por celebridades ou marcas. Contas paródia ou contas de fã precisam estar explicitamente sinalizadas.</li>
+</ul></p>
+<h3 id="comportamentos-desencorajados">Comportamentos desencorajados</h3>
+<p>Os comportamentos a seguir são desencorajados. A reincidência, após advertência, também ocasionará em suspensão.</p>
+<p><ul>
+<li>Flood (postar repetidamente ou pequenas mensagens sem intervalo) nas timelines públicas (local e federada).</li>
+<li>Spam (mensagens indesejadas ou não requisitadas).</li>
+</ul></p>
+<h3 id="pol-tica-de-aviso-de-conte-do">Política de aviso de conteúdo</h3>
+<p>O Mastodon possui uma funcionalidade chamada de &quot;aviso de conteúdo&quot;. Para mais informações sobre o uso, veja <a href="https://masto.donte.com.br/@status/99971766825871804">este post</a>.</p>
+<p>O uso de aviso de conteúdo é obrigatorio em postagens que:</p>
+<p><ul>
+<li>Mencionam assuntos traumáticos (por exemplo: estupro, violência).</li>
+<li>Contenham enredo de séries, jogos e filmes (por exemplo: &#39;Spoilers de Power Rangers S01E01&#39;).</li>
+<li>Contenham nudez, conteúdo sexual e imagens de violência (mesmo que em representações artísticas).</li>
+<li>Descrições explícitas de sexo ou conteúdo sexual em <a href="#privacidade">postagens públicas</a>.</li>
+<li>Vídeos com movimentos rápidos e luzes intermitentes.</li>
+</ul></p>
+<p>O uso de aviso de conteúdo não é obrigatório, mas sugerido, em postagens envolvendo os seguintes assuntos ou imagens relacionadas:</p>
+<p><ul>
+<li>Comida</li>
+<li>Política</li>
+<li>Álcool, cigarro e outras drogas</li>
+<li>Aranhas, répteis e outras coisas que podem causar desconforto em pessoas que possuem fobias</li>
+<li>Retratos de si, principalmente aquelas com contato ocular direto</li>
+</ul></p>
+<h3 id="sobre-n-veis-de-privacidade">Sobre níveis de privacidade</h3>
+<p><a name="privacidade"></a>
+No Mastodon cada status pode ser postado em três diferentes configurações de audiência. É importante ter isso em mente porque certas regras só se aplicam a determinadas configurações:</p>
+<p><ul>
+<li>Somente seguidores: A publicação é enviada para todos os seguidores, não aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags.</li>
+<li>Não listada: A publicação é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags.</li>
+<li>Pública: É enviada para as timelines &quot;local&quot; e &quot;pública&quot;, compartilhadas por outros membros da instância, é enviadada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, aparece em buscas por hashtags.</li>
+</ul></p>
+<h3 id="sobre-crossposters">Sobre Crossposters</h3>
+<p>Crossposters são ferramentas, automatizadas ou não, usadas para postar a partir de outras redes (como Twitter ou Tumblr) para o Mastodon. O uso destas ferramentas é permitido, mas as seguintes regras se aplicam:</p>
+<p><ol>
+<li>Retweet, quotes (retweets com comentários) ou reblogs não podem ser postados com privacidade pública.</li>
+<li>Posts vindos de outras redes, como o Twitter, ainda precisam obedecer à outras regras desse código, tais como avisos de conteúdo.</li>
+<li>Crossposters só podem ser usados na condição de que você acompanha as suas notificações, do contrário resultará em suspensão após uma advertência.</li>
+</ol></p>
+<h3 id="como-reportar-uma-viola-o-do-c-digo-de-conduta">Como reportar uma violação do código de conduta</h3>
+<p>O Mastodon possui ferramentas internas de denúncia. Qualquer post ou perfil que você acredite que esteja em violação dessas regras pode ser denunciado utilizando a ferramenta interna do Mastodon e ele será enviado aos moderadores.</p>
+<p>Caso a sua denúncia seja relativa a um dos moderadores, você pode reportar a violação através de mensagem direta à um dos outros moderadores.</p>
+<p>Você pode fazer uma denúncia mesmo que a sua situação não seja diretamente coberta por essas regras, caso a situação lhe cause desconforto. A moderação irá avaliar cada situação individualmente.</p>
+<p>Respondemos de maneira privada à todas as denúncias que recebemos, fazendo um esforço para que a primeira resposta seja dada nas primeiras 24 horas.</p>
+<h2 id="sobre-o-mastodonte">Sobre o Mastodonte</h2>
+<h3 id="nosso-time-de-modera-o">Nosso time de moderação</h3>
 <p>Nosso time de moderação atual é composto por <a href="https://masto.donte.com.br/@renatolond" class="u-url mention">@<span>renatolond</span></a>, <a href="https://masto.donte.com.br/@abacaxi" class="u-url mention">@<span>abacaxi</span></a>, <a href="https://masto.donte.com.br/@anna" class="u-url mention">@<span>anna</span></a>, <a href="https://masto.donte.com.br/@amber" class="u-url mention">@<span>amber</span></a> e <a href="https://masto.donte.com.br/@ohtori" class="u-url mention">@<span>ohtori</span></a></p>
 
-### Federação
-Por ser um software descentralizado, um servidor do Mastodon, chamado instância, pode se comunicar com outras instâncias.
-
-O Mastodonte federa com a maioria das instâncias. As exceções podem ser vistas aqui: [lista de bloqueios e silenciamentos](https://github.com/masto-donte-com-br/InstanceInternals/blob/master/Blocklist.md).
-
-## Diferenças do masto.donte.com.br
-O masto.donte.com.br roda uma versão ligeiramente modificada do Mastodon, com as seguintes modificações:
-* Máximo de 500 caracteres na bio
-* Mostrar sugestões de pessoas para seguir (usando o código existente no Mastodon)
-* Possibilidade de publicar toots visíveis somente para membros da instância
-
-## Atribuições artísticas
-
-Um monte dos nossos emojis são trabalho de <a href="https://masto.donte.com.br/@abacaxi" class="u-url mention">@<span>abacaxi</span></a>, são eles: <img draggable="false" class="emojione" alt=":bandeira_ac:" title=":bandeira_ac:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/730/static/ac.png"> <img draggable="false" class="emojione" alt=":bandeira_al:" title=":bandeira_al:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/731/static/al.png"> <img draggable="false" class="emojione" alt=":bandeira_am:" title=":bandeira_am:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/732/static/am.png"> <img draggable="false" class="emojione" alt=":bandeira_ap:" title=":bandeira_ap:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/733/static/ap.png"> <img draggable="false" class="emojione" alt=":bandeira_ba:" title=":bandeira_ba:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/734/static/ba.png"> <img draggable="false" class="emojione" alt=":bandeira_ce:" title=":bandeira_ce:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/735/static/ce.png"> <img draggable="false" class="emojione" alt=":bandeira_df:" title=":bandeira_df:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/736/static/df.png"> <img draggable="false" class="emojione" alt=":bandeira_es:" title=":bandeira_es:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/737/static/es.png"> <img draggable="false" class="emojione" alt=":bandeira_go:" title=":bandeira_go:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/738/static/go.png"> <img draggable="false" class="emojione" alt=":bandeira_ma:" title=":bandeira_ma:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/739/static/ma.png"> <img draggable="false" class="emojione" alt=":bandeira_mg:" title=":bandeira_mg:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/742/static/mg.png"> <img draggable="false" class="emojione" alt=":bandeira_ms:" title=":bandeira_ms:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/741/static/ms.png"> <img draggable="false" class="emojione" alt=":bandeira_mt:" title=":bandeira_mt:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/740/static/mt.png"> <img draggable="false" class="emojione" alt=":bandeira_pa:" title=":bandeira_pa:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/743/static/pa.png"> <img draggable="false" class="emojione" alt=":bandeira_pb:" title=":bandeira_pb:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/744/static/pb.png"> <img draggable="false" class="emojione" alt=":bandeira_pe:" title=":bandeira_pe:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/746/static/pe.png"> <img draggable="false" class="emojione" alt=":bandeira_pi:" title=":bandeira_pi:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/747/static/pi.png"> <img draggable="false" class="emojione" alt=":bandeira_pr:" title=":bandeira_pr:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/745/static/pr.png"><img draggable="false" class="emojione" alt=":bandeira_rj:" title=":bandeira_rj:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/748/static/rj.png"> <img draggable="false" class="emojione" alt=":bandeira_rn:" title=":bandeira_rn:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/749/static/rn.png"> <img draggable="false" class="emojione" alt=":bandeira_ro:" title=":bandeira_ro:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/751/static/ro.png"> <img draggable="false" class="emojione" alt=":bandeira_rr:" title=":bandeira_rr:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/752/static/rr.png"> <img draggable="false" class="emojione" alt=":bandeira_rs:" title=":bandeira_rs:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/750/static/rs.png"> <img draggable="false" class="emojione" alt=":bandeira_sc:" title=":bandeira_sc:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/753/static/sc.png"> <img draggable="false" class="emojione" alt=":bandeira_se:" title=":bandeira_se:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/755/static/se.png"> <img draggable="false" class="emojione" alt=":bandeira_sp:" title=":bandeira_sp:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/754/static/sp.png"> <img draggable="false" class="emojione" alt=":bandeira_to:" title=":bandeira_to:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/756/static/to.png"><img draggable="false" class="emojione" alt=":bacuri:" title=":bacuri:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/667/static/bacuri.png"> <img draggable="false" class="emojione" alt=":coxinha:" title=":coxinha:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/669/static/coxinha.png"> <img draggable="false" class="emojione" alt=":empada:" title=":empada:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/707/static/7577d20571cb4576.png"> <img draggable="false" class="emojione" alt=":pamonha:" title=":pamonha:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/703/static/47d3ca8e9197517b.png"> <img draggable="false" class="emojione" alt=":pastel:" title=":pastel:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/668/static/pastel.png"><img draggable="false" class="emojione" alt=":capivara:" title=":capivara:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/675/static/cfd1836fa6ba0a3a.png"> <img draggable="false" class="emojione" alt=":cristo_redentor:" title=":cristo_redentor:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/704/static/b0e8364a12f4c631.png"><img draggable="false" class="emojione" alt=":fuleco:" title=":fuleco:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/757/static/fuleco.png"> <img draggable="false" class="emojione" alt=":tom:" title=":tom:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/068/static/tom_emoji.png"><img draggable="false" class="emojione" alt=":707:" title=":707:" src="https://images.masto.donte.com.br/custom_emojis/images/000/010/711/original/707_emoji.png"> <img draggable="false" class="emojione" alt=":abacaxi:" title=":abacaxi:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/067/original/abacaxi_emoji_pequeno.png"> <img draggable="false" class="emojione" alt=":bandeirinha_01:" title=":bandeirinha_01:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/803/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_02:" title=":bandeirinha_02:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/805/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_03:" title=":bandeirinha_03:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/806/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_04:" title=":bandeirinha_04:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/807/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_05:" title=":bandeirinha_05:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/811/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_06:" title=":bandeirinha_06:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/809/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_07:" title=":bandeirinha_07:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/810/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":brigadeiro:" title=":brigadeiro:" src="https://images.masto.donte.com.br/custom_emojis/images/000/008/553/original/brigadeiro.png"> <img draggable="false" class="emojione" alt=":caju:" title=":caju:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/670/original/caju.png"> <img draggable="false" class="emojione" alt=":chapeu_de_bruxa:" title=":chapeu_de_bruxa:" src="https://images.masto.donte.com.br/custom_emojis/images/000/008/865/original/chapeu.png"> <img draggable="false" class="emojione" alt=":cuscuz:" title=":cuscuz:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/147/original/cuscuz_emoji_small.png"> <img draggable="false" class="emojione" alt=":cuscuz_explode:" title=":cuscuz_explode:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/351/original/cuscuz-que-explode-emoji.png"> <img draggable="false" class="emojione" alt=":doge:" title=":doge:" src="https://images.masto.donte.com.br/custom_emojis/images/000/010/241/original/doge_emoji.png"> <img draggable="false" class="emojione" alt=":mamao:" title=":mamao:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/433/original/mam%C3%A3o_emoji.png">
-
-Os emojis dos corações com as bandeiras foram feitas por Cam, CAMERATA#4771 no discord: <img draggable="false" class="emojione" alt=":heart_ace:" title=":heart_ace:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/496/static/f728af717b2105b1.png"><img draggable="false" class="emojione" alt=":heart_aro:" title=":heart_aro:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/495/static/c0babccf301ef878.png"> <img draggable="false" class="emojione" alt=":heart_bi:" title=":heart_bi:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/494/static/fe0f50740f628348.png"> <img draggable="false" class="emojione" alt=":heart_gq:" title=":heart_gq:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/493/static/8241d1d77c978aa0.png"> <img draggable="false" class="emojione" alt=":heart_is:" title=":heart_is:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/492/static/6c489d1a7fb6c3b2.png"> <img draggable="false" class="emojione" alt=":heart_nb:" title=":heart_nb:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/491/static/6bc3387c8675c093.png"><img draggable="false" class="emojione" alt=":heart_pan:" title=":heart_pan:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/490/static/64184a2524659e46.png"> <img draggable="false" class="emojione" alt=":heart_pride:" title=":heart_pride:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/489/static/5965f1f6469c005a.png"> <img draggable="false" class="emojione" alt=":heart_trans:" title=":heart_trans:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/488/static/7df083918b548879.png"> <img draggable="false" class="emojione" alt=":heart_trans_white:" title=":heart_trans_white:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/497/static/25164182fd4b160b.png">
-
-Os emojis de bola de gude com as cores das bandeiras foram feitos por <a href="https://github.com/unascribed/PrideMarbles" target="_blank">Unascribed</a>: <img draggable="false" class="emojione" alt=":marble_aromantic:" title=":marble_aromantic:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/276/static/c7c27e9448cfb621.png"> <img draggable="false" class="emojione" alt=":marble_asexual:" title=":marble_asexual:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/277/static/9fc379d2b19266bf.png"> <img draggable="false" class="emojione" alt=":marble_bisexual:" title=":marble_bisexual:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/278/static/ea463f0eedf68a1e.png"> <img draggable="false" class="emojione" alt=":marble_genderqueer:" title=":marble_genderqueer:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/279/static/d6aef3d247af4e10.png"> <img draggable="false" class="emojione" alt=":marble_intersex:" title=":marble_intersex:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/280/static/0f22d4168eb9f1a3.png"> <img draggable="false" class="emojione" alt=":marble_nonbinary:" title=":marble_nonbinary:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/281/static/451daeedadd00114.png"> <img draggable="false" class="emojione" alt=":marble_pansexual:" title=":marble_pansexual:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/282/static/a5940e3814270509.png"> <img draggable="false" class="emojione" alt=":marble_pride:" title=":marble_pride:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/283/static/7030a1c7bcfbcbdd.png"> <img draggable="false" class="emojione" alt=":marble_transgender:" title=":marble_transgender:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/284/static/52a11436571b3ea8.png">
-
-O emoji de chimarrão é de autoria de <a href="https://colorid.es/@Aster" class="u-url mention">@<span>Aster</span></a>: <img draggable="false" class="emojione" alt=":chimarrao:" title=":chimarrao:" src="https://images.masto.donte.com.br/custom_emojis/images/000/012/384/original/450e18370e4fe0cb.png">.
-
-Temos alguns emojis do <a href="https://mutant.tech" target="_blank">Mutant Standard emoji</a> que são licenciados com <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR" target="_blank">Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)</a>.
-
-A arte da página inicial e da prévia dos links é de autoria de <a href="https://www.instagram.com/mamagalsi/" target="_blank">Mamá Galsi</a>.
-
-## Informações úteis
-
-Siga <a href="https://masto.donte.com.br/@status" target="_blank">@status</a> para atualizações, tempos de indisponibilidade planejados e semelhantes.
-
-Siga <a href="https://masto.donte.com.br/@ambassador" target="_blank">@ambassador</a> para ver as postagens mais populares da instância.
-
-### Dicas
-Use <a href="https://bridge.joinmastodon.org/" target="_blank">Mastodon Bridge</a> para encontrar pessoas do Twitter que estão no Mastodon.
-
-Use <a href="https://crossposter.masto.donte.com.br/" target="_blank">Mastodon Twitter Crossposter</a> para fazer que o conteúdo postado no mastodon seja enviado para o twitter ou vice-versa.
-
+<h3 id="federa-o">Federação</h3>
+<p>Por ser um software descentralizado, um servidor do Mastodon, chamado instância, pode se comunicar com outras instâncias.</p>
+<p>O Mastodonte federa com a maioria das instâncias. As exceções podem ser vistas aqui: <a href="https://github.com/masto-donte-com-br/InstanceInternals/blob/master/Blocklist.md">lista de bloqueios e silenciamentos</a>.</p>
+<h2 id="diferen-as-do-masto-donte-com-br">Diferenças do masto.donte.com.br</h2>
+<p>O masto.donte.com.br roda uma versão ligeiramente modificada do Mastodon, com as seguintes modificações:</p>
+<p><ul>
+<li>Máximo de 500 caracteres na bio</li>
+<li>Possibilidade de publicar toots visíveis somente para membros da instância (toots que não enviados para outras instâncias)</li>
+</ul></p>
+<h2 id="atribui-es-art-sticas">Atribuições artísticas</h2>
+<p>Um monte dos nossos emojis são trabalho de <a href="https://masto.donte.com.br/@abacaxi" class="u-url mention">@<span>abacaxi</span></a>, são eles: <img draggable="false" class="emojione" alt=":bandeira_ac:" title=":bandeira_ac:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/730/static/ac.png"> <img draggable="false" class="emojione" alt=":bandeira_al:" title=":bandeira_al:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/731/static/al.png"> <img draggable="false" class="emojione" alt=":bandeira_am:" title=":bandeira_am:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/732/static/am.png"> <img draggable="false" class="emojione" alt=":bandeira_ap:" title=":bandeira_ap:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/733/static/ap.png"> <img draggable="false" class="emojione" alt=":bandeira_ba:" title=":bandeira_ba:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/734/static/ba.png"> <img draggable="false" class="emojione" alt=":bandeira_ce:" title=":bandeira_ce:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/735/static/ce.png"> <img draggable="false" class="emojione" alt=":bandeira_df:" title=":bandeira_df:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/736/static/df.png"> <img draggable="false" class="emojione" alt=":bandeira_es:" title=":bandeira_es:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/737/static/es.png"> <img draggable="false" class="emojione" alt=":bandeira_go:" title=":bandeira_go:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/738/static/go.png"> <img draggable="false" class="emojione" alt=":bandeira_ma:" title=":bandeira_ma:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/739/static/ma.png"> <img draggable="false" class="emojione" alt=":bandeira_mg:" title=":bandeira_mg:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/742/static/mg.png"> <img draggable="false" class="emojione" alt=":bandeira_ms:" title=":bandeira_ms:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/741/static/ms.png"> <img draggable="false" class="emojione" alt=":bandeira_mt:" title=":bandeira_mt:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/740/static/mt.png"> <img draggable="false" class="emojione" alt=":bandeira_pa:" title=":bandeira_pa:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/743/static/pa.png"> <img draggable="false" class="emojione" alt=":bandeira_pb:" title=":bandeira_pb:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/744/static/pb.png"> <img draggable="false" class="emojione" alt=":bandeira_pe:" title=":bandeira_pe:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/746/static/pe.png"> <img draggable="false" class="emojione" alt=":bandeira_pi:" title=":bandeira_pi:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/747/static/pi.png"> <img draggable="false" class="emojione" alt=":bandeira_pr:" title=":bandeira_pr:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/745/static/pr.png"><img draggable="false" class="emojione" alt=":bandeira_rj:" title=":bandeira_rj:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/748/static/rj.png"> <img draggable="false" class="emojione" alt=":bandeira_rn:" title=":bandeira_rn:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/749/static/rn.png"> <img draggable="false" class="emojione" alt=":bandeira_ro:" title=":bandeira_ro:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/751/static/ro.png"> <img draggable="false" class="emojione" alt=":bandeira_rr:" title=":bandeira_rr:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/752/static/rr.png"> <img draggable="false" class="emojione" alt=":bandeira_rs:" title=":bandeira_rs:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/750/static/rs.png"> <img draggable="false" class="emojione" alt=":bandeira_sc:" title=":bandeira_sc:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/753/static/sc.png"> <img draggable="false" class="emojione" alt=":bandeira_se:" title=":bandeira_se:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/755/static/se.png"> <img draggable="false" class="emojione" alt=":bandeira_sp:" title=":bandeira_sp:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/754/static/sp.png"> <img draggable="false" class="emojione" alt=":bandeira_to:" title=":bandeira_to:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/756/static/to.png"><img draggable="false" class="emojione" alt=":bacuri:" title=":bacuri:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/667/static/bacuri.png"> <img draggable="false" class="emojione" alt=":coxinha:" title=":coxinha:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/669/static/coxinha.png"> <img draggable="false" class="emojione" alt=":empada:" title=":empada:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/707/static/7577d20571cb4576.png"> <img draggable="false" class="emojione" alt=":pamonha:" title=":pamonha:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/703/static/47d3ca8e9197517b.png"> <img draggable="false" class="emojione" alt=":pastel:" title=":pastel:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/668/static/pastel.png"><img draggable="false" class="emojione" alt=":capivara:" title=":capivara:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/675/static/cfd1836fa6ba0a3a.png"> <img draggable="false" class="emojione" alt=":cristo_redentor:" title=":cristo_redentor:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/704/static/b0e8364a12f4c631.png"><img draggable="false" class="emojione" alt=":fuleco:" title=":fuleco:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/757/static/fuleco.png"> <img draggable="false" class="emojione" alt=":tom:" title=":tom:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/068/static/tom_emoji.png"><img draggable="false" class="emojione" alt=":707:" title=":707:" src="https://images.masto.donte.com.br/custom_emojis/images/000/010/711/original/707_emoji.png"> <img draggable="false" class="emojione" alt=":abacaxi:" title=":abacaxi:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/067/original/abacaxi_emoji_pequeno.png"> <img draggable="false" class="emojione" alt=":bandeirinha_01:" title=":bandeirinha_01:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/803/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_02:" title=":bandeirinha_02:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/805/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_03:" title=":bandeirinha_03:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/806/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_04:" title=":bandeirinha_04:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/807/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_05:" title=":bandeirinha_05:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/811/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_06:" title=":bandeirinha_06:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/809/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_07:" title=":bandeirinha_07:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/810/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":brigadeiro:" title=":brigadeiro:" src="https://images.masto.donte.com.br/custom_emojis/images/000/008/553/original/brigadeiro.png"> <img draggable="false" class="emojione" alt=":caju:" title=":caju:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/670/original/caju.png"> <img draggable="false" class="emojione" alt=":chapeu_de_bruxa:" title=":chapeu_de_bruxa:" src="https://images.masto.donte.com.br/custom_emojis/images/000/008/865/original/chapeu.png"> <img draggable="false" class="emojione" alt=":cuscuz:" title=":cuscuz:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/147/original/cuscuz_emoji_small.png"> <img draggable="false" class="emojione" alt=":cuscuz_explode:" title=":cuscuz_explode:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/351/original/cuscuz-que-explode-emoji.png"> <img draggable="false" class="emojione" alt=":doge:" title=":doge:" src="https://images.masto.donte.com.br/custom_emojis/images/000/010/241/original/doge_emoji.png"> <img draggable="false" class="emojione" alt=":mamao:" title=":mamao:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/433/original/mam%C3%A3o_emoji.png"></p>
+<p>Os emojis dos corações com as bandeiras foram feitas por Cam, CAMERATA#4771 no discord: <img draggable="false" class="emojione" alt=":heart_ace:" title=":heart_ace:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/496/static/f728af717b2105b1.png"><img draggable="false" class="emojione" alt=":heart_aro:" title=":heart_aro:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/495/static/c0babccf301ef878.png"> <img draggable="false" class="emojione" alt=":heart_bi:" title=":heart_bi:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/494/static/fe0f50740f628348.png"> <img draggable="false" class="emojione" alt=":heart_gq:" title=":heart_gq:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/493/static/8241d1d77c978aa0.png"> <img draggable="false" class="emojione" alt=":heart_is:" title=":heart_is:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/492/static/6c489d1a7fb6c3b2.png"> <img draggable="false" class="emojione" alt=":heart_nb:" title=":heart_nb:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/491/static/6bc3387c8675c093.png"><img draggable="false" class="emojione" alt=":heart_pan:" title=":heart_pan:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/490/static/64184a2524659e46.png"> <img draggable="false" class="emojione" alt=":heart_pride:" title=":heart_pride:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/489/static/5965f1f6469c005a.png"> <img draggable="false" class="emojione" alt=":heart_trans:" title=":heart_trans:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/488/static/7df083918b548879.png"> <img draggable="false" class="emojione" alt=":heart_trans_white:" title=":heart_trans_white:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/497/static/25164182fd4b160b.png"></p>
+<p>Os emojis de bola de gude com as cores das bandeiras foram feitos por <a href="https://github.com/unascribed/PrideMarbles" target="_blank">Unascribed</a>: <img draggable="false" class="emojione" alt=":marble_aromantic:" title=":marble_aromantic:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/276/static/c7c27e9448cfb621.png"> <img draggable="false" class="emojione" alt=":marble_asexual:" title=":marble_asexual:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/277/static/9fc379d2b19266bf.png"> <img draggable="false" class="emojione" alt=":marble_bisexual:" title=":marble_bisexual:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/278/static/ea463f0eedf68a1e.png"> <img draggable="false" class="emojione" alt=":marble_genderqueer:" title=":marble_genderqueer:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/279/static/d6aef3d247af4e10.png"> <img draggable="false" class="emojione" alt=":marble_intersex:" title=":marble_intersex:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/280/static/0f22d4168eb9f1a3.png"> <img draggable="false" class="emojione" alt=":marble_nonbinary:" title=":marble_nonbinary:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/281/static/451daeedadd00114.png"> <img draggable="false" class="emojione" alt=":marble_pansexual:" title=":marble_pansexual:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/282/static/a5940e3814270509.png"> <img draggable="false" class="emojione" alt=":marble_pride:" title=":marble_pride:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/283/static/7030a1c7bcfbcbdd.png"> <img draggable="false" class="emojione" alt=":marble_transgender:" title=":marble_transgender:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/284/static/52a11436571b3ea8.png"></p>
+<p>O emoji de chimarrão é de autoria de <a href="https://colorid.es/@Aster" class="u-url mention">@<span>Aster</span></a>: <img draggable="false" class="emojione" alt=":chimarrao:" title=":chimarrao:" src="https://images.masto.donte.com.br/custom_emojis/images/000/012/384/original/450e18370e4fe0cb.png">.</p>
+<p>Temos alguns emojis do <a href="https://mutant.tech" target="_blank">Mutant Standard emoji</a> que são licenciados com <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR" target="_blank">Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)</a>.</p>
+<p>A arte da página inicial e da prévia dos links é de autoria de <a href="https://www.instagram.com/mamagalsi/" target="_blank">Mamá Galsi</a>.</p>
+<h2 id="informa-es-teis">Informações úteis</h2>
+<p>Siga <a href="https://masto.donte.com.br/@status" target="_blank">@status</a> para atualizações, tempos de indisponibilidade planejados e semelhantes.</p>
+<p>Siga <a href="https://masto.donte.com.br/@ambassador" target="_blank">@ambassador</a> para ver as postagens mais populares da instância.</p>
+<h3 id="dicas">Dicas</h3>
+<p>Use <a href="https://bridge.joinmastodon.org/" target="_blank">Mastodon Bridge</a> para encontrar pessoas do Twitter que estão no Mastodon.</p>
+<p>Use <a href="https://crossposter.masto.donte.com.br/" target="_blank">Mastodon Twitter Crossposter</a> para fazer que o conteúdo postado no mastodon seja enviado para o twitter ou vice-versa.</p>
 </div>
 
 <hr />
 <div lang="en"><p>masto.donte.com.br is a <a href="https://joinmastodon.org" target="_blank">Mastodon instance</a> aimed at people from Brazil, but people that do not speak portuguese or that post in more than one language are equally welcome.</p>
 
-This instance is **moderated**. We try to be a space that is feminist, antiracist, anticolonialist, accessible and inclusive to trans and non-binary people.
-
-To keep this space this way, all users from masto.donte.com.br need to follow our code of conduct described below. If you think this instance is not for you, check out <a href="https://instances.social/list#lang=pt&allowed=&prohibited=nudity_nocw,pornography_nocw,spam,advertising,spoilers_nocw&users=" target="_blank">our suggestion of other instances for portuguese speakers</a>.
-
-## masto.donte.com.br's Code of Conduct:
-
-### Unacceptable behavior
-
-Accounts that engage in the following behaviors will be suspended without appeal:
-
-#### Posting illegal content or content without concrete legal definition such as:
-
-* Sexual depictions of children or child pornography (including lolicon, shotacon)
-* Promoting nazism or fascism.
-
-#### Hate speech or inflamatory speech, such as:
-
-* Racist, sexist, homophobic, transphobic, ableist, xenophobic, islamophobic or fatphobic speech.
-* Threats of violence or violent language towards other people.
-* Defense of totalitarian regimes
-* Violent nationalism
-* Intentional misinformation.
-
-#### Threathening to publish or publishing private content, such as:
-
-* Posting another's personal information (informally called "doxing").
-* Private conversations, such as DM's, without consent of the other parties.
-
-#### Invasive or intimidating behaviors, such as:
-
-* Make comments or invasive questions (such as "What is your birth name?" or constant attempts at trying to know the location of someone)
-* To continue a conversation after the other party asked for it to be over (harassment)
-* Unwelcome sexual advancements, jokes or comments.
-* Deliberate intimidation, stalking.
-
-#### False representation, such as:
-* Creating accounts that present as celebrities or brands. Parody accounts or fan accounts need to be marked in a clear way.
-
-### Unwanted behavior
-
-The following behavior is unwanted. After a warning, they will cause suspension.
-
-* Flood (posting the same message many times, or several messages in a short interval in the public timelines (local and global).
-* Spam (unwanted messages or advertising)
-
-### Content Warning policy
-
-Mastodon has a feature called "Content Warning". For more information about it's usage check [this post](https://masto.donte.com.br/@status/99971766825871804).
-
-Content Warning is required in toots that:
-* Contain traumatic subjects (such as: rape, violence).
-* Contain movie, tv show or game plots (i.e: 'Spoilers Power Rangers S01E01').
-* Contain nudity, sexual content and violent images (even if in drawing or artistic pictures)
-* Descriptions of sexual nature or content in [public posts](#privacy).
-* Videos with quick movements and flashing lights.
-
-Use of content warning is not required, but suggested, in posts envolving the following subjects or images:
-* Food
-* Politics
-* Alcohol, tobacco and other drugs
-* Spiders, reptiles and other things that could cause discomfort in people with phobias
-* Selfies, specially with eye contact
-
-### On privacy levels
-<a name="privacy" />
-In Mastodon each status can be posted with one of three different audience configurations. It's important to have that in mind because certain rules apply only to one or other configuration:
-
-* Followers-only: The toot is sent to all followers, but does not appear in the public profile page of the person that posted it, nor does it appear in hashtag searches.
-* Unlisted: The toot is sent to all followers, appear in the public profile page of the person that posted it, but does not appear in hashtag searches.
-* Public: The toot is sent to the "local" and "federated" timelines (which are shared by other members of the instance), is sent to all followers, appears in the public profile page of the person that posted it and appears in hashtag searches.
-
-### On Crossposters
-Crossposters are tools, automated or otherwise, used to post from other networks (such as Twitter or Tumblr) into Mastodon. The use of such tools is allowed, but the following rules apply:
-
-1. Retweets, quotes (retweets with comments) or reblogs **cannot** be posted with the "Public" privacy setting.
-2. Posts coming from other networks, such as Twitter, still need to obey to the other rules described in this code of conduct, such as the content warning policy.
-3. Crossposters can only be used with the condition that you follow your notifications, otherwise they will result in suspension after a first warning.
-
-### How to report a code of conduct violation
-
-Mastodon has tools for reporting toots and profiles. Any toot or profile you believe that's violating a rule of this code can be reported using the reporting tools and it will be sent to all moderators.
-
-If your report is relative to one of the moderators, you can report the violation through direct message to one of the other moderators.
-
-You can report a toot or profile even if the situation is not described directly in these rules, if the situation cause you discomfort. The moderation team will evaluate each case individually.
-
-We will respond in a private manner to all reports we receive, making an effort that the first response is given in the first 24 hours.
-
-## About Mastodonte
-
-### Our moderation team
+<p>This instance is <strong>moderated</strong>. We try to be a space that is feminist, antiracist, anticolonialist, accessible and inclusive to trans and non-binary people.</p>
+<p>To keep this space this way, all users from masto.donte.com.br need to follow our code of conduct described below. If you think this instance is not for you, check out <a href="https://instances.social/list#lang=pt&allowed=&prohibited=nudity_nocw,pornography_nocw,spam,advertising,spoilers_nocw&users=" target="_blank">our suggestion of other instances for portuguese speakers</a>.</p>
+<h2 id="masto-donte-com-br-s-code-of-conduct-">masto.donte.com.br&#39;s Code of Conduct:</h2>
+<h3 id="unacceptable-behavior">Unacceptable behavior</h3>
+<p>Accounts that engage in the following behaviors will be suspended without appeal:</p>
+<h4 id="posting-illegal-content-or-content-without-concrete-legal-definition-such-as-">Posting illegal content or content without concrete legal definition such as:</h4>
+<p><ul>
+<li>Sexual depictions of children or child pornography (including lolicon, shotacon)</li>
+<li>Promoting nazism or fascism.</li>
+</ul></p>
+<h4 id="hate-speech-or-inflamatory-speech-such-as-">Hate speech or inflamatory speech, such as:</h4>
+<p><ul>
+<li>Racist, sexist, homophobic, transphobic, ableist, xenophobic, islamophobic or fatphobic speech.</li>
+<li>Threats of violence or violent language towards other people.</li>
+<li>Defense of totalitarian regimes</li>
+<li>Violent nationalism</li>
+<li>Intentional misinformation.</li>
+</ul></p>
+<h4 id="threathening-to-publish-or-publishing-private-content-such-as-">Threathening to publish or publishing private content, such as:</h4>
+<p><ul>
+<li>Posting another&#39;s personal information (informally called &quot;doxing&quot;).</li>
+<li>Private conversations, such as DM&#39;s, without consent of the other parties.</li>
+</ul></p>
+<h4 id="invasive-or-intimidating-behaviors-such-as-">Invasive or intimidating behaviors, such as:</h4>
+<p><ul>
+<li>Make comments or invasive questions (such as &quot;What is your birth name?&quot; or constant attempts at trying to know the location of someone)</li>
+<li>To continue a conversation after the other party asked for it to be over (harassment)</li>
+<li>Unwelcome sexual advancements, jokes or comments.</li>
+<li>Deliberate intimidation, stalking.</li>
+</ul></p>
+<h4 id="false-representation-such-as-">False representation, such as:</h4>
+<p><ul>
+<li>Creating accounts that present as celebrities or brands. Parody accounts or fan accounts need to be marked in a clear way.</li>
+</ul></p>
+<h3 id="unwanted-behavior">Unwanted behavior</h3>
+<p>The following behavior is unwanted. After a warning, they will cause suspension.</p>
+<p><ul>
+<li>Flood (posting the same message many times, or several messages in a short interval in the public timelines (local and global).</li>
+<li>Spam (unwanted messages or advertising)</li>
+</ul></p>
+<h3 id="content-warning-policy">Content Warning policy</h3>
+<p>Mastodon has a feature called &quot;Content Warning&quot;. For more information about it&#39;s usage check <a href="https://masto.donte.com.br/@status/99971766825871804">this post</a>.</p>
+<p>Content Warning is required in toots that:</p>
+<p><ul>
+<li>Contain traumatic subjects (such as: rape, violence).</li>
+<li>Contain movie, tv show or game plots (i.e: &#39;Spoilers Power Rangers S01E01&#39;).</li>
+<li>Contain nudity, sexual content and violent images (even if in drawing or artistic pictures)</li>
+<li>Descriptions of sexual nature or content in <a href="#privacy">public posts</a>.</li>
+<li>Videos with quick movements and flashing lights.</li>
+</ul></p>
+<p>Use of content warning is not required, but suggested, in posts envolving the following subjects or images:</p>
+<p><ul>
+<li>Food</li>
+<li>Politics</li>
+<li>Alcohol, tobacco and other drugs</li>
+<li>Spiders, reptiles and other things that could cause discomfort in people with phobias</li>
+<li>Selfies, specially with eye contact</li>
+</ul></p>
+<h3 id="on-privacy-levels">On privacy levels</h3>
+<p><a name="privacy"></a>
+In Mastodon each status can be posted with one of three different audience configurations. It&#39;s important to have that in mind because certain rules apply only to one or other configuration:</p>
+<p><ul>
+<li>Followers-only: The toot is sent to all followers, but does not appear in the public profile page of the person that posted it, nor does it appear in hashtag searches.</li>
+<li>Unlisted: The toot is sent to all followers, appear in the public profile page of the person that posted it, but does not appear in hashtag searches.</li>
+<li>Public: The toot is sent to the &quot;local&quot; and &quot;federated&quot; timelines (which are shared by other members of the instance), is sent to all followers, appears in the public profile page of the person that posted it and appears in hashtag searches.</li>
+</ul></p>
+<h3 id="on-crossposters">On Crossposters</h3>
+<p>Crossposters are tools, automated or otherwise, used to post from other networks (such as Twitter or Tumblr) into Mastodon. The use of such tools is allowed, but the following rules apply:</p>
+<p><ol>
+<li>Retweets, quotes (retweets with comments) or reblogs <strong>cannot</strong> be posted with the &quot;Public&quot; privacy setting.</li>
+<li>Posts coming from other networks, such as Twitter, still need to obey to the other rules described in this code of conduct, such as the content warning policy.</li>
+<li>Crossposters can only be used with the condition that you follow your notifications, otherwise they will result in suspension after a first warning.</li>
+</ol></p>
+<h3 id="how-to-report-a-code-of-conduct-violation">How to report a code of conduct violation</h3>
+<p>Mastodon has tools for reporting toots and profiles. Any toot or profile you believe that&#39;s violating a rule of this code can be reported using the reporting tools and it will be sent to all moderators.</p>
+<p>If your report is relative to one of the moderators, you can report the violation through direct message to one of the other moderators.</p>
+<p>You can report a toot or profile even if the situation is not described directly in these rules, if the situation cause you discomfort. The moderation team will evaluate each case individually.</p>
+<p>We will respond in a private manner to all reports we receive, making an effort that the first response is given in the first 24 hours.</p>
+<h2 id="about-mastodonte">About Mastodonte</h2>
+<h3 id="our-moderation-team">Our moderation team</h3>
 <p>Our current moderation team is composed by <a href="https://masto.donte.com.br/@renatolond" class="u-url mention">@<span>renatolond</span></a>, <a href="https://masto.donte.com.br/@abacaxi" class="u-url mention">@<span>abacaxi</span></a>, <a href="https://masto.donte.com.br/@anna" class="u-url mention">@<span>anna</span></a>, <a href="https://masto.donte.com.br/@amber" class="u-url mention">@<span>amber</span></a> e <a href="https://masto.donte.com.br/@ohtori" class="u-url mention">@<span>ohtori</span></a></p>
 
-### Federation
-Being a decentralized software, a Mastodon server (known as "instance"), can communicate with other instances.
-
-Mastodonte federates with most of the instances. The exceptions can be seen here: [list of blocks and mutes](https://github.com/masto-donte-com-br/InstanceInternals/blob/master/Blocklist.md).
-
-## masto.donte.com.br particularities
-masto.donte.com.br uses a slightly modified version of Mastodon, with the following changes:
-* Up to 500 characters in the bio (instead of the normal 160)
-* Possibility to publish instance-only toots (toots that do not federate to other instances)
-
-## Artistic attribution
-
-A lot of our emojis are the work of <a href="https://masto.donte.com.br/@abacaxi" class="u-url mention">@<span>abacaxi</span></a>, among others: <img draggable="false" class="emojione" alt=":bandeira_ac:" title=":bandeira_ac:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/730/static/ac.png"> <img draggable="false" class="emojione" alt=":bandeira_al:" title=":bandeira_al:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/731/static/al.png"> <img draggable="false" class="emojione" alt=":bandeira_am:" title=":bandeira_am:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/732/static/am.png"> <img draggable="false" class="emojione" alt=":bandeira_ap:" title=":bandeira_ap:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/733/static/ap.png"> <img draggable="false" class="emojione" alt=":bandeira_ba:" title=":bandeira_ba:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/734/static/ba.png"> <img draggable="false" class="emojione" alt=":bandeira_ce:" title=":bandeira_ce:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/735/static/ce.png"> <img draggable="false" class="emojione" alt=":bandeira_df:" title=":bandeira_df:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/736/static/df.png"> <img draggable="false" class="emojione" alt=":bandeira_es:" title=":bandeira_es:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/737/static/es.png"> <img draggable="false" class="emojione" alt=":bandeira_go:" title=":bandeira_go:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/738/static/go.png"> <img draggable="false" class="emojione" alt=":bandeira_ma:" title=":bandeira_ma:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/739/static/ma.png"> <img draggable="false" class="emojione" alt=":bandeira_mg:" title=":bandeira_mg:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/742/static/mg.png"> <img draggable="false" class="emojione" alt=":bandeira_ms:" title=":bandeira_ms:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/741/static/ms.png"> <img draggable="false" class="emojione" alt=":bandeira_mt:" title=":bandeira_mt:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/740/static/mt.png"> <img draggable="false" class="emojione" alt=":bandeira_pa:" title=":bandeira_pa:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/743/static/pa.png"> <img draggable="false" class="emojione" alt=":bandeira_pb:" title=":bandeira_pb:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/744/static/pb.png"> <img draggable="false" class="emojione" alt=":bandeira_pe:" title=":bandeira_pe:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/746/static/pe.png"> <img draggable="false" class="emojione" alt=":bandeira_pi:" title=":bandeira_pi:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/747/static/pi.png"> <img draggable="false" class="emojione" alt=":bandeira_pr:" title=":bandeira_pr:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/745/static/pr.png"><img draggable="false" class="emojione" alt=":bandeira_rj:" title=":bandeira_rj:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/748/static/rj.png"> <img draggable="false" class="emojione" alt=":bandeira_rn:" title=":bandeira_rn:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/749/static/rn.png"> <img draggable="false" class="emojione" alt=":bandeira_ro:" title=":bandeira_ro:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/751/static/ro.png"> <img draggable="false" class="emojione" alt=":bandeira_rr:" title=":bandeira_rr:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/752/static/rr.png"> <img draggable="false" class="emojione" alt=":bandeira_rs:" title=":bandeira_rs:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/750/static/rs.png"> <img draggable="false" class="emojione" alt=":bandeira_sc:" title=":bandeira_sc:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/753/static/sc.png"> <img draggable="false" class="emojione" alt=":bandeira_se:" title=":bandeira_se:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/755/static/se.png"> <img draggable="false" class="emojione" alt=":bandeira_sp:" title=":bandeira_sp:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/754/static/sp.png"> <img draggable="false" class="emojione" alt=":bandeira_to:" title=":bandeira_to:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/756/static/to.png"><img draggable="false" class="emojione" alt=":bacuri:" title=":bacuri:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/667/static/bacuri.png"> <img draggable="false" class="emojione" alt=":coxinha:" title=":coxinha:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/669/static/coxinha.png"> <img draggable="false" class="emojione" alt=":empada:" title=":empada:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/707/static/7577d20571cb4576.png"> <img draggable="false" class="emojione" alt=":pamonha:" title=":pamonha:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/703/static/47d3ca8e9197517b.png"> <img draggable="false" class="emojione" alt=":pastel:" title=":pastel:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/668/static/pastel.png"><img draggable="false" class="emojione" alt=":capivara:" title=":capivara:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/675/static/cfd1836fa6ba0a3a.png"> <img draggable="false" class="emojione" alt=":cristo_redentor:" title=":cristo_redentor:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/704/static/b0e8364a12f4c631.png"><img draggable="false" class="emojione" alt=":fuleco:" title=":fuleco:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/757/static/fuleco.png"> <img draggable="false" class="emojione" alt=":tom:" title=":tom:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/068/static/tom_emoji.png"><img draggable="false" class="emojione" alt=":707:" title=":707:" src="https://images.masto.donte.com.br/custom_emojis/images/000/010/711/original/707_emoji.png"> <img draggable="false" class="emojione" alt=":abacaxi:" title=":abacaxi:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/067/original/abacaxi_emoji_pequeno.png"> <img draggable="false" class="emojione" alt=":bandeirinha_01:" title=":bandeirinha_01:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/803/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_02:" title=":bandeirinha_02:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/805/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_03:" title=":bandeirinha_03:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/806/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_04:" title=":bandeirinha_04:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/807/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_05:" title=":bandeirinha_05:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/811/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_06:" title=":bandeirinha_06:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/809/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_07:" title=":bandeirinha_07:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/810/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":brigadeiro:" title=":brigadeiro:" src="https://images.masto.donte.com.br/custom_emojis/images/000/008/553/original/brigadeiro.png"> <img draggable="false" class="emojione" alt=":caju:" title=":caju:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/670/original/caju.png"> <img draggable="false" class="emojione" alt=":chapeu_de_bruxa:" title=":chapeu_de_bruxa:" src="https://images.masto.donte.com.br/custom_emojis/images/000/008/865/original/chapeu.png"> <img draggable="false" class="emojione" alt=":cuscuz:" title=":cuscuz:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/147/original/cuscuz_emoji_small.png"> <img draggable="false" class="emojione" alt=":cuscuz_explode:" title=":cuscuz_explode:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/351/original/cuscuz-que-explode-emoji.png"> <img draggable="false" class="emojione" alt=":doge:" title=":doge:" src="https://images.masto.donte.com.br/custom_emojis/images/000/010/241/original/doge_emoji.png"> <img draggable="false" class="emojione" alt=":mamao:" title=":mamao:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/433/original/mam%C3%A3o_emoji.png">
-
-The heart with the pride flags were made by Cam, CAMERATA#4771 in discord: <img draggable="false" class="emojione" alt=":heart_ace:" title=":heart_ace:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/496/static/f728af717b2105b1.png"><img draggable="false" class="emojione" alt=":heart_aro:" title=":heart_aro:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/495/static/c0babccf301ef878.png"> <img draggable="false" class="emojione" alt=":heart_bi:" title=":heart_bi:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/494/static/fe0f50740f628348.png"> <img draggable="false" class="emojione" alt=":heart_gq:" title=":heart_gq:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/493/static/8241d1d77c978aa0.png"> <img draggable="false" class="emojione" alt=":heart_is:" title=":heart_is:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/492/static/6c489d1a7fb6c3b2.png"> <img draggable="false" class="emojione" alt=":heart_nb:" title=":heart_nb:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/491/static/6bc3387c8675c093.png"><img draggable="false" class="emojione" alt=":heart_pan:" title=":heart_pan:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/490/static/64184a2524659e46.png"> <img draggable="false" class="emojione" alt=":heart_pride:" title=":heart_pride:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/489/static/5965f1f6469c005a.png"> <img draggable="false" class="emojione" alt=":heart_trans:" title=":heart_trans:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/488/static/7df083918b548879.png"> <img draggable="false" class="emojione" alt=":heart_trans_white:" title=":heart_trans_white:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/497/static/25164182fd4b160b.png">
-
-The pride marbles were made by <a href="https://github.com/unascribed/PrideMarbles" target="_blank">Unascribed</a>: <img draggable="false" class="emojione" alt=":marble_aromantic:" title=":marble_aromantic:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/276/static/c7c27e9448cfb621.png"> <img draggable="false" class="emojione" alt=":marble_asexual:" title=":marble_asexual:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/277/static/9fc379d2b19266bf.png"> <img draggable="false" class="emojione" alt=":marble_bisexual:" title=":marble_bisexual:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/278/static/ea463f0eedf68a1e.png"> <img draggable="false" class="emojione" alt=":marble_genderqueer:" title=":marble_genderqueer:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/279/static/d6aef3d247af4e10.png"> <img draggable="false" class="emojione" alt=":marble_intersex:" title=":marble_intersex:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/280/static/0f22d4168eb9f1a3.png"> <img draggable="false" class="emojione" alt=":marble_nonbinary:" title=":marble_nonbinary:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/281/static/451daeedadd00114.png"> <img draggable="false" class="emojione" alt=":marble_pansexual:" title=":marble_pansexual:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/282/static/a5940e3814270509.png"> <img draggable="false" class="emojione" alt=":marble_pride:" title=":marble_pride:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/283/static/7030a1c7bcfbcbdd.png"> <img draggable="false" class="emojione" alt=":marble_transgender:" title=":marble_transgender:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/284/static/52a11436571b3ea8.png">
-
-The chimarrão emoji was made by <a href="https://colorid.es/@Aster" class="u-url mention">@<span>Aster</span></a>: <img draggable="false" class="emojione" alt=":chimarrao:" title=":chimarrao:" src="https://images.masto.donte.com.br/custom_emojis/images/000/012/384/original/450e18370e4fe0cb.png">.
-
-We use some emoji from the <a href="https://mutant.tech" target="_blank">Mutant Standard emoji</a> which are licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-The art in the main page and link previews was drawn by <a href="https://www.instagram.com/mamagalsi/" target="_blank">Mamá Galsi</a>.
-
-## Useful information
-
-Follow <a href="https://masto.donte.com.br/@status" target="_blank">@status</a> for updates, planned downtimes and similar info.
-
-Follow <a href="https://masto.donte.com.br/@ambassador" target="_blank">@ambassador</a> for the a manually curated view of our most popular toots.
-
-### Tips
-Use <a href="https://bridge.joinmastodon.org/" target="_blank">Mastodon Bridge</a> to find people from Twitter on Mastodon.
-
-Use <a href="https://crossposter.masto.donte.com.br/" target="_blank">Mastodon Twitter Crossposter</a> to post content from Mastodon to Twitter and vice-versa.
-
+<h3 id="federation">Federation</h3>
+<p>Being a decentralized software, a Mastodon server (known as &quot;instance&quot;), can communicate with other instances.</p>
+<p>Mastodonte federates with most of the instances. The exceptions can be seen here: <a href="https://github.com/masto-donte-com-br/InstanceInternals/blob/master/Blocklist.md">list of blocks and mutes</a>.</p>
+<h2 id="masto-donte-com-br-particularities">masto.donte.com.br particularities</h2>
+<p>masto.donte.com.br uses a slightly modified version of Mastodon, with the following changes:</p>
+<p><ul>
+<li>Up to 500 characters in the bio (instead of the normal 160)</li>
+<li>Possibility to publish instance-only toots (toots that do not federate to other instances)</li>
+</ul></p>
+<h2 id="artistic-attribution">Artistic attribution</h2>
+<p>A lot of our emojis are the work of <a href="https://masto.donte.com.br/@abacaxi" class="u-url mention">@<span>abacaxi</span></a>, among others: <img draggable="false" class="emojione" alt=":bandeira_ac:" title=":bandeira_ac:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/730/static/ac.png"> <img draggable="false" class="emojione" alt=":bandeira_al:" title=":bandeira_al:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/731/static/al.png"> <img draggable="false" class="emojione" alt=":bandeira_am:" title=":bandeira_am:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/732/static/am.png"> <img draggable="false" class="emojione" alt=":bandeira_ap:" title=":bandeira_ap:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/733/static/ap.png"> <img draggable="false" class="emojione" alt=":bandeira_ba:" title=":bandeira_ba:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/734/static/ba.png"> <img draggable="false" class="emojione" alt=":bandeira_ce:" title=":bandeira_ce:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/735/static/ce.png"> <img draggable="false" class="emojione" alt=":bandeira_df:" title=":bandeira_df:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/736/static/df.png"> <img draggable="false" class="emojione" alt=":bandeira_es:" title=":bandeira_es:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/737/static/es.png"> <img draggable="false" class="emojione" alt=":bandeira_go:" title=":bandeira_go:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/738/static/go.png"> <img draggable="false" class="emojione" alt=":bandeira_ma:" title=":bandeira_ma:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/739/static/ma.png"> <img draggable="false" class="emojione" alt=":bandeira_mg:" title=":bandeira_mg:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/742/static/mg.png"> <img draggable="false" class="emojione" alt=":bandeira_ms:" title=":bandeira_ms:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/741/static/ms.png"> <img draggable="false" class="emojione" alt=":bandeira_mt:" title=":bandeira_mt:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/740/static/mt.png"> <img draggable="false" class="emojione" alt=":bandeira_pa:" title=":bandeira_pa:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/743/static/pa.png"> <img draggable="false" class="emojione" alt=":bandeira_pb:" title=":bandeira_pb:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/744/static/pb.png"> <img draggable="false" class="emojione" alt=":bandeira_pe:" title=":bandeira_pe:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/746/static/pe.png"> <img draggable="false" class="emojione" alt=":bandeira_pi:" title=":bandeira_pi:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/747/static/pi.png"> <img draggable="false" class="emojione" alt=":bandeira_pr:" title=":bandeira_pr:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/745/static/pr.png"><img draggable="false" class="emojione" alt=":bandeira_rj:" title=":bandeira_rj:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/748/static/rj.png"> <img draggable="false" class="emojione" alt=":bandeira_rn:" title=":bandeira_rn:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/749/static/rn.png"> <img draggable="false" class="emojione" alt=":bandeira_ro:" title=":bandeira_ro:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/751/static/ro.png"> <img draggable="false" class="emojione" alt=":bandeira_rr:" title=":bandeira_rr:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/752/static/rr.png"> <img draggable="false" class="emojione" alt=":bandeira_rs:" title=":bandeira_rs:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/750/static/rs.png"> <img draggable="false" class="emojione" alt=":bandeira_sc:" title=":bandeira_sc:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/753/static/sc.png"> <img draggable="false" class="emojione" alt=":bandeira_se:" title=":bandeira_se:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/755/static/se.png"> <img draggable="false" class="emojione" alt=":bandeira_sp:" title=":bandeira_sp:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/754/static/sp.png"> <img draggable="false" class="emojione" alt=":bandeira_to:" title=":bandeira_to:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/756/static/to.png"><img draggable="false" class="emojione" alt=":bacuri:" title=":bacuri:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/667/static/bacuri.png"> <img draggable="false" class="emojione" alt=":coxinha:" title=":coxinha:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/669/static/coxinha.png"> <img draggable="false" class="emojione" alt=":empada:" title=":empada:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/707/static/7577d20571cb4576.png"> <img draggable="false" class="emojione" alt=":pamonha:" title=":pamonha:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/703/static/47d3ca8e9197517b.png"> <img draggable="false" class="emojione" alt=":pastel:" title=":pastel:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/668/static/pastel.png"><img draggable="false" class="emojione" alt=":capivara:" title=":capivara:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/675/static/cfd1836fa6ba0a3a.png"> <img draggable="false" class="emojione" alt=":cristo_redentor:" title=":cristo_redentor:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/704/static/b0e8364a12f4c631.png"><img draggable="false" class="emojione" alt=":fuleco:" title=":fuleco:" src="https://images.masto.donte.com.br/custom_emojis/images/000/005/757/static/fuleco.png"> <img draggable="false" class="emojione" alt=":tom:" title=":tom:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/068/static/tom_emoji.png"><img draggable="false" class="emojione" alt=":707:" title=":707:" src="https://images.masto.donte.com.br/custom_emojis/images/000/010/711/original/707_emoji.png"> <img draggable="false" class="emojione" alt=":abacaxi:" title=":abacaxi:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/067/original/abacaxi_emoji_pequeno.png"> <img draggable="false" class="emojione" alt=":bandeirinha_01:" title=":bandeirinha_01:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/803/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_02:" title=":bandeirinha_02:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/805/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_03:" title=":bandeirinha_03:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/806/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_04:" title=":bandeirinha_04:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/807/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_05:" title=":bandeirinha_05:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/811/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_06:" title=":bandeirinha_06:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/809/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":bandeirinha_07:" title=":bandeirinha_07:" src="https://images.masto.donte.com.br/custom_emojis/images/000/011/810/original/bandeirinhas_emoji.png"> <img draggable="false" class="emojione" alt=":brigadeiro:" title=":brigadeiro:" src="https://images.masto.donte.com.br/custom_emojis/images/000/008/553/original/brigadeiro.png"> <img draggable="false" class="emojione" alt=":caju:" title=":caju:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/670/original/caju.png"> <img draggable="false" class="emojione" alt=":chapeu_de_bruxa:" title=":chapeu_de_bruxa:" src="https://images.masto.donte.com.br/custom_emojis/images/000/008/865/original/chapeu.png"> <img draggable="false" class="emojione" alt=":cuscuz:" title=":cuscuz:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/147/original/cuscuz_emoji_small.png"> <img draggable="false" class="emojione" alt=":cuscuz_explode:" title=":cuscuz_explode:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/351/original/cuscuz-que-explode-emoji.png"> <img draggable="false" class="emojione" alt=":doge:" title=":doge:" src="https://images.masto.donte.com.br/custom_emojis/images/000/010/241/original/doge_emoji.png"> <img draggable="false" class="emojione" alt=":mamao:" title=":mamao:" src="https://images.masto.donte.com.br/custom_emojis/images/000/009/433/original/mam%C3%A3o_emoji.png"></p>
+<p>The heart with the pride flags were made by Cam, CAMERATA#4771 in discord: <img draggable="false" class="emojione" alt=":heart_ace:" title=":heart_ace:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/496/static/f728af717b2105b1.png"><img draggable="false" class="emojione" alt=":heart_aro:" title=":heart_aro:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/495/static/c0babccf301ef878.png"> <img draggable="false" class="emojione" alt=":heart_bi:" title=":heart_bi:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/494/static/fe0f50740f628348.png"> <img draggable="false" class="emojione" alt=":heart_gq:" title=":heart_gq:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/493/static/8241d1d77c978aa0.png"> <img draggable="false" class="emojione" alt=":heart_is:" title=":heart_is:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/492/static/6c489d1a7fb6c3b2.png"> <img draggable="false" class="emojione" alt=":heart_nb:" title=":heart_nb:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/491/static/6bc3387c8675c093.png"><img draggable="false" class="emojione" alt=":heart_pan:" title=":heart_pan:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/490/static/64184a2524659e46.png"> <img draggable="false" class="emojione" alt=":heart_pride:" title=":heart_pride:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/489/static/5965f1f6469c005a.png"> <img draggable="false" class="emojione" alt=":heart_trans:" title=":heart_trans:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/488/static/7df083918b548879.png"> <img draggable="false" class="emojione" alt=":heart_trans_white:" title=":heart_trans_white:" src="https://images.masto.donte.com.br/custom_emojis/images/000/004/497/static/25164182fd4b160b.png"></p>
+<p>The pride marbles were made by <a href="https://github.com/unascribed/PrideMarbles" target="_blank">Unascribed</a>: <img draggable="false" class="emojione" alt=":marble_aromantic:" title=":marble_aromantic:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/276/static/c7c27e9448cfb621.png"> <img draggable="false" class="emojione" alt=":marble_asexual:" title=":marble_asexual:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/277/static/9fc379d2b19266bf.png"> <img draggable="false" class="emojione" alt=":marble_bisexual:" title=":marble_bisexual:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/278/static/ea463f0eedf68a1e.png"> <img draggable="false" class="emojione" alt=":marble_genderqueer:" title=":marble_genderqueer:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/279/static/d6aef3d247af4e10.png"> <img draggable="false" class="emojione" alt=":marble_intersex:" title=":marble_intersex:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/280/static/0f22d4168eb9f1a3.png"> <img draggable="false" class="emojione" alt=":marble_nonbinary:" title=":marble_nonbinary:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/281/static/451daeedadd00114.png"> <img draggable="false" class="emojione" alt=":marble_pansexual:" title=":marble_pansexual:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/282/static/a5940e3814270509.png"> <img draggable="false" class="emojione" alt=":marble_pride:" title=":marble_pride:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/283/static/7030a1c7bcfbcbdd.png"> <img draggable="false" class="emojione" alt=":marble_transgender:" title=":marble_transgender:" src="https://images.masto.donte.com.br/custom_emojis/images/000/006/284/static/52a11436571b3ea8.png"></p>
+<p>The chimarrão emoji was made by <a href="https://colorid.es/@Aster" class="u-url mention">@<span>Aster</span></a>: <img draggable="false" class="emojione" alt=":chimarrao:" title=":chimarrao:" src="https://images.masto.donte.com.br/custom_emojis/images/000/012/384/original/450e18370e4fe0cb.png">.</p>
+<p>We use some emoji from the <a href="https://mutant.tech" target="_blank">Mutant Standard emoji</a> which are licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
+<p>The art in the main page and link previews was drawn by <a href="https://www.instagram.com/mamagalsi/" target="_blank">Mamá Galsi</a>.</p>
+<h2 id="useful-information">Useful information</h2>
+<p>Follow <a href="https://masto.donte.com.br/@status" target="_blank">@status</a> for updates, planned downtimes and similar info.</p>
+<p>Follow <a href="https://masto.donte.com.br/@ambassador" target="_blank">@ambassador</a> for the a manually curated view of our most popular toots.</p>
+<h3 id="tips">Tips</h3>
+<p>Use <a href="https://bridge.joinmastodon.org/" target="_blank">Mastodon Bridge</a> to find people from Twitter on Mastodon.</p>
+<p>Use <a href="https://crossposter.masto.donte.com.br/" target="_blank">Mastodon Twitter Crossposter</a> to post content from Mastodon to Twitter and vice-versa.</p>
 </div>
