@@ -19,7 +19,7 @@ Transparency report for instance-wide blocks and silence
 | satania.space | suspend | Nazi imagery from the admin |
 | social.super-niche.club | suspend | lolicon, shota, etc, harassment | [social.super-niche.club on blockchain](https://github.com/dzuk-mutant/blockchain/blob/master/list/instances/social_super-niche_club/social_super-niche_club.md)
 | wxw.moe | suspend | loli, shota, etc | [wxw.moe on blockchain](https://github.com/dzuk-mutant/blockchain/blob/master/list/list.md#illustrated-sexualised-depictions-of-people-who-appear-to-be-minors)
-| mastodon.loliandstuff.moe | suspend | loli, shota, etc | [wxw.moe on blockchain](https://github.com/dzuk-mutant/blockchain/blob/master/list/list.md#illustrated-sexualised-depictions-of-people-who-appear-to-be-minors)
+| mastodon.loliandstuff.moe | suspend | loli, shota, etc | [mastodon.loliandstuff.moe on blockchain](https://github.com/dzuk-mutant/blockchain/blob/master/list/list.md#illustrated-sexualised-depictions-of-people-who-appear-to-be-minors)
 | pleroma.rareome.ga | suspend | privacy levels hacked | [pleroma.rareoma.ga](https://github.com/dzuk-mutant/blockchain/blob/master/list/list.md#securityprivacy-risks)
 | vipgirlfriend.xxx | suspend | scrapping content from switter.at | https://switter.at/@switter/100438111942557217
 | bofa.lol | silence | opressive shitposting | admin harasses other and created a wiki to harass people
