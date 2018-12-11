@@ -27,5 +27,14 @@ Transparency report for instance-wide blocks and silence
 | newjack.city | suspend | followbots | only follow bots, no real content, seems to be collecting data
 | soc.h4x.group | suspend | transphobia | admin keeps harassing other people from time to time
 | switter.co | suspend | impersonation | seems like wants to get some users from having the same domain as switter.at
+| quey.org | suspend | homophobia, weird network of domains | https://masto.donte.com.br/@status/101029237114034512
+| write.wtf | suspend | homophobia, weird network of domains | https://masto.donte.com.br/@status/101029237114034512
+| cat.social | suspend | homophobia, weird network of domains | https://masto.donte.com.br/@status/101029237114034512
+| hacked.im | suspend | homophobia, weird network of domains | https://masto.donte.com.br/@status/101029237114034512
+| sander.social | suspend | homophobia, weird network of domains | https://masto.donte.com.br/@status/101029237114034512
+| xey.me | suspend | homophobia, weird network of domains | https://masto.donte.com.br/@status/101029237114034512
+| kneegrows.top | suspend | racism | https://masto.donte.com.br/@status/101064422652855227
+| feminism.lgbt | suspend | loli, shota, etc | https://masto.donte.com.br/@status/101221249085248077
+| explosion.party | suspend | nazi dogwhistle, misgendering, etc | https://masto.donte.com.br/@status/101221292909115764
 
 `*` No moderation
