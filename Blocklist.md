@@ -36,5 +36,14 @@ Transparency report for instance-wide blocks and silence
 | kneegrows.top | suspend | racism | https://masto.donte.com.br/@status/101064422652855227
 | feminism.lgbt | suspend | loli, shota, etc | https://masto.donte.com.br/@status/101221249085248077
 | explosion.party | suspend | nazi dogwhistle, misgendering, etc | https://masto.donte.com.br/@status/101221292909115764
+| loli.estate | suspend | loli, shota, etc |
+| mobile.co | suspend | white nationalism, fascism | https://github.com/dzuk-mutant/blockchain/blob/master/list/instances/mobile_co/mobile_co.md
+| honey.church | suspend | aphobic, transphobic |
+| rapefeminists.network | suspend | |
+| freespeech.firedragonstudios.com | suspend | harassment, free speech zone* | https://github.com/dzuk-mutant/blockchain/blob/master/list/instances/freespeech_firedragonstudios_com/freespeech_firedragonstudios_com.md
+| social.heldscal.la | suspend | free speech zone* |
+| libertarianism.club | suspend | free speech zone* |
+| mingxingsex.com | suspend | admin selling deep fakes | https://masto.donte.com.br/@romariorios/101485537937341381
+| humblr.social | silence | untagged sensitive avatars and headers |
 
 `*` No moderation
