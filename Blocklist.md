@@ -45,5 +45,11 @@ Transparency report for instance-wide blocks and silence
 | libertarianism.club | suspend | free speech zone* |
 | mingxingsex.com | suspend | admin selling deep fakes | https://masto.donte.com.br/@romariorios/101485537937341381
 | humblr.social | silence | untagged sensitive avatars and headers |
+| cloutfla.re | suspend | transphobic |
+| daffodil-11.org | suspend | suspicious domain, lots of different accounts behaving like bots |
+| socnet.supes.com | suspend | free speech zone* |
+| neckbeard.xyz | suspend | |
+| liberdon.com | suspend | |
+| social.librem.one / librem.one | suspend | free speech zone* |
 
 `*` No moderation
