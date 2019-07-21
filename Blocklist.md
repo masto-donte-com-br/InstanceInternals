@@ -51,5 +51,16 @@ Transparency report for instance-wide blocks and silence
 | neckbeard.xyz | suspend | |
 | liberdon.com | suspend | |
 | social.librem.one / librem.one | suspend | free speech zone* |
+| gab.com,gab.ai,etc | suspend | gab instance |
+| kiwifarms.cc,kiwifarms.net,etc | suspend | kiwifarms |
+| weedis.life | suspend | spam |
+| freevoice.space | suspend | gab instance, free speech zone* |
+| linuxrocks.online | suspend | admin said would not moderate for "political views", aka, free speech zone |
+| cmpwn.com | suspend | admin fud about matrix and other soft |
+| anime.website | suspend | free speech zone* |
+| cawfee.club | suspend | free speech zone* |
+| functor.pro | suspend | free speech zone* |
+
+
 
 `*` No moderation
