@@ -51,7 +51,7 @@ Transparency report for instance-wide blocks and silence
 | neckbeard.xyz | suspend | |
 | liberdon.com | suspend | |
 | social.librem.one / librem.one | suspend | free speech zone* |
-| gab.com,gab.ai,etc | suspend | gab instance |
+| gab.com,gab.ai,spinster.xyz,gabfed.com,etc | suspend | gab instance |
 | kiwifarms.cc,kiwifarms.net,etc | suspend | kiwifarms |
 | weedis.life | suspend | spam |
 | freevoice.space | suspend | gab instance, free speech zone* |
@@ -60,7 +60,12 @@ Transparency report for instance-wide blocks and silence
 | anime.website | suspend | free speech zone* |
 | cawfee.club | suspend | free speech zone* |
 | functor.pro | suspend | free speech zone* |
-
+| freespeechextremist.com | suspend | free speech zone* |
+| noagendasocial.com | suspend | gab apology, admin sharing racist memes |
+| hitime.space | suspend | spam |
+| freefedifollowers.ga | suspend | spam |
+| yorishiro.space | suspend | avoiding bans, admin harassing users |
+| qoto.org | suspend | free speech zone* |
 
 
 `*` No moderation
